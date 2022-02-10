@@ -945,7 +945,7 @@ Mini-dictionary:
     - izena: name
     - izenak: names
     - izoztuta: frozen
-    - itxoin: wait
+    - itxaron: wait
     - jaitsi: descend/go down
     - jatorra: nice
     - jatoraren: nice (noren case)
@@ -2094,9 +2094,7 @@ Mini-dictionary:
     - the: -a
     - stoplight: semaforo
     - then: gero
-    - theater:
-      - antzerkia
-      - zinema
+    - theater: zinema
     - there: hor
     - these: hauek
     - their: haien
@@ -2145,7 +2143,7 @@ Mini-dictionary:
       - ohi
       - normalean
     - very: oso
-    - wait: itxoin (command)
+    - wait: itxaron (command)
     - waiter: camareroa
     - waiters: camareroak
     - wake:
