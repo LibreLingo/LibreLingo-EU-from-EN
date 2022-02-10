@@ -37,7 +37,7 @@ New words:
       - nothing
       - nothing
 
-  - Word: itxoin
+  - Word: itxaron
     Translation: wait
     Images:
       - nothing
@@ -115,10 +115,10 @@ Phrases:
     Alternative translations:
       - Do not be quiet!
 
-  - Phrase: Itxoin hemen!
+  - Phrase: Itxaron hemen!
     Translation: Wait here!
 
-  - Phrase: Itxoin hotelean!
+  - Phrase: Itxaron hotelean!
     Translation: Wait in the hotel!
 
   - Phrase: Joan dendan!
@@ -929,7 +929,7 @@ Mini-dictionary:
     - izena: name
     - izenak: names
     - izoztuta: frozen
-    - itxoin: wait
+    - itxaron: wait
     - jaitsi: descend/go down
     - jatorra: nice
     - jatoraren: nice (noren case)
@@ -2031,9 +2031,7 @@ Mini-dictionary:
       - hori
       - hura
     - the: -a
-    - theater:
-      - antzerkia
-      - zinema
+    - theater: zinema
     - there: hor
     - these: hauek
     - their: haien
@@ -2078,7 +2076,7 @@ Mini-dictionary:
       - ohi
       - normalean
     - very: oso
-    - wait: itxoin (command)
+    - wait: itxaron (command)
     - waiter: camareroa
     - waiters: camareroak
     - wake:

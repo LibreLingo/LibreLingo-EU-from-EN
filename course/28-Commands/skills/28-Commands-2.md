@@ -12,7 +12,7 @@
 * jaitsi!: descend/go down
 * irakurri!: read!
 * isildu!: quiet!
-* itxoin!: wait!
+* itxaron!: wait!
 * joan!: go!
 * sartu!: enter!
 * kontuz!: careful!
