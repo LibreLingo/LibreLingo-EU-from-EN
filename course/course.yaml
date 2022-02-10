@@ -46,6 +46,9 @@ Modules:
   - 27-Time/
   - 28-Commands/
   - 29-Directions/
+  - 30-CompoundVerbs1/
+  - 31-DativeCommands/
+  - 32-ReflectiveVerbs/
 
 Settings:
     - disable audio files
