@@ -1897,7 +1897,9 @@ Mini-dictionary:
       - hori
       - hura
     - the: -a
-    - theater: zinema
+    - theater:
+      - antzerkia
+      - zinema
     - there: hor
     - these: hauek
     - their: haien

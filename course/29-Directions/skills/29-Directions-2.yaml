@@ -2094,7 +2094,9 @@ Mini-dictionary:
     - the: -a
     - stoplight: semaforo
     - then: gero
-    - theater: zinema
+    - theater:
+      - antzerkia
+      - zinema
     - there: hor
     - these: hauek
     - their: haien
