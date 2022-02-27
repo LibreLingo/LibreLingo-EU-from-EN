@@ -169,11 +169,11 @@ Phrases:
     Alternative translations:
      - Trucks were interesting to us.
 
-  - Phrase: Zuei motoak interesatzen zaizkizue.
+  - Phrase: Zuei motorrak interesatzen zaizkizue.
     Alternative versions:
-     - Motoak interesatzen zaizkizue.
-     - Zuei interesatzen  zaizkizue motoak.
-     - Interesatzen  zaizkizue motoak.
+     - Motorrak interesatzen zaizkizue.
+     - Zuei interesatzen  zaizkizue motorrak.
+     - Interesatzen  zaizkizue motorrak.
     Translation: You all are interested in motorcycles.
     Alternative translations:
      - You (plural)are interested in motorcycles.
@@ -1277,7 +1277,7 @@ Mini-dictionary:
     - motela: slow
     - motelak: slow
     - motor: motorcycle
-    - motoak: motorcycles
+    - motorrak: motorcycles
     - motorrez: by motorcycle
     - motxila: backpack
     - motxilak: backpacks
@@ -2157,7 +2157,7 @@ Mini-dictionary:
     - meters: metroak
     - mine: nirea
     - motorcycle: motor
-    - motorcycles: motoak
+    - motorcycles: motorrak
     - movie: filma
     - must: behar
     - name: izen

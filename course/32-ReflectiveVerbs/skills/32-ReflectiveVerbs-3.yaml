@@ -1290,7 +1290,7 @@ Mini-dictionary:
     - motela: slow
     - motelak: slow
     - motor: motorcycle
-    - motoak: motorcycles
+    - motorrak: motorcycles
     - motorrez: by motorcycle
     - motxila: backpack
     - motxilak: backpacks
@@ -2182,7 +2182,7 @@ Mini-dictionary:
     - meters: metroak
     - mine: nirea
     - motorcycle: motor
-    - motorcycles: motoak
+    - motorcycles: motorrak
     - movie: filma
     - must: behar
     - name: izen
