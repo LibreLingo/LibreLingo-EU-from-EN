@@ -932,7 +932,7 @@ Mini-dictionary:
     - izena: name
     - izenak: names
     - izoztuta: frozen
-    - itxoin: wait
+    - itxaron: wait
     - jaitsi: descend/go down
     - jatorra: nice
     - jatoraren: nice (noren case)
@@ -2097,7 +2097,7 @@ Mini-dictionary:
       - ohi
       - normalean
     - very: oso
-    - wait: itxoin (command)
+    - wait: itxaron (command)
     - waiter: camareroa
     - waiters: camareroak
     - wake:

@@ -46,6 +46,17 @@ Modules:
   - 27-Time/
   - 28-Commands/
   - 29-Directions/
+  - 30-CompoundVerbs1/
+  - 31-DativeCommands/
+  - 32-ReflectiveVerbs/
+  - 33-Ukan1/
+  - 34-Ukan2/
+  - 35-TransVerbs1/
+  - 36-TransVerbs2/
+  - 37-UkanPast/
+  - 38-Egin/
+  - 39-Eduki/
+
 
 Settings:
     - disable audio files
