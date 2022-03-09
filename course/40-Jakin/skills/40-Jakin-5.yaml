@@ -1,0 +1,3021 @@
+Skill:
+  Id: 405
+  Name: Jakin 5
+  Thumbnails:
+
+New words:
+  - Word: nekizkien
+    Translation: I knew them
+    Images:
+      - nothing
+      - nothing
+      - nothing
+
+  - Word: zenekizkien
+    Translation: You knew them
+    Images:
+      - nothing
+      - nothing
+      - nothing
+
+  - Word: zekizkien
+    Translation: He knew them
+    Also accepted:
+      - She knew them
+    Images:
+      - nothing
+      - nothing
+      - nothing
+
+  - Word: genekizkien
+    Translation: We knew them
+    Images:
+      - nothing
+      - nothing
+      - nothing
+
+  - Word: zenekizkiten
+    Translation: You all knew them
+    Also accepted:
+      - You (plural) knew them
+      - You'll knew them
+      - You knew them
+    Images:
+      - nothing
+      - nothing
+      - nothing
+
+  - Word: zekizkiten
+    Translation: They knew them
+    Images:
+      - nothing
+      - nothing
+      - nothing
+
+Phrases:
+  - Phrase: Nik ez nekizkien ikasleen izenak.
+    Alternative versions:
+     - Ez nekizkien ikasleen izenak.
+    Translation: I did not know the students' names.
+    Alternative translations:
+     - I didn't know the students' names.
+     - I did not know the names of the students.
+     - I didn't know the names of the students.
+
+  - Phrase: Zuk ez zenekizkien euskaraz irakurtzen eta idazten.
+    Alternative versions:
+     - Ez zenekizkien euskaraz irakurtzen eta idazten.
+    Translation: You did not know how to read and write in Basque.
+
+  - Phrase: Gizonak ez zekizkien erizainen izenak.
+    Alternative versions:
+     - Ez zekizkien erizainen izenak.
+    Translation: The man did not know the names of the nurses.
+    Alternative translations:
+     - The man did not know the nurses' names.
+     - The man didn't know the names of the nurses.
+     - The man didn't know the nurses' names.
+
+  - Phrase: Guk ez genekizkien nola euskaraz eta espainieraz hitz egiten.
+    Alternative versions:
+     - Guk ez genekizkien euskaraz eta espainieraz hitz egiten.
+     - Ez genekizkien nola euskaraz eta espainieraz hitz egiten.
+     - Ez genekizkien euskaraz eta espainieraz hitz egiten.
+    Translation: We did not know how to speak Basque and Spanish.
+    Alternative translations:
+     - We didn't know how to speak Basque and Spanish.
+
+  - Phrase: Zuek ez zenekizkiten nola abesten eta dantzatzen.
+    Alternative versions:
+     - Zuek ez zenekizkiten abesten eta dantzatzen.
+     - Ez zenekizkiten nola abesten eta dantzatzen.
+     - Ez zenekizkiten abesten eta dantzatzen.
+    Translation: You all did not know how to sing and dance.
+    Alternative translations:
+     - You (plural) did not know how to sing and dance.
+     - You'll did not know how to sing and dance.
+     - You did not know how to sing and dance.
+     - You all didn't know how to sing and dance.
+     - You (plural) didn't know how to sing and dance.
+     - You'll didn't know how to sing and dance.
+     - You didn't know how to sing and dance.
+
+  - Phrase: Zaldiek ez zekizkiten txakurren izenak.
+    Translation: The horses did not know the names of the dogs.
+    Alternative translations:
+     - The horses didn't know the names of the dogs.
+     - The horses did not know the dogs' names.
+     - The horses didn't know the dogs' names.
+
+  - Phrase: Nik banekizkien gurasoen izenak.
+    Alternative versions:
+     - Gurasoen banekizkien izenak.
+     - Nik nekizkien gurasoen izenak.
+     - Nekizkien gurasoen izenak.
+    Translation: I knew the names of the parents.
+    Alternative translations:
+     - I knew the parents' names.
+
+  - Phrase: Zuk bazenekizkien apaizen izenak.
+    Alternative versions:
+     - Bazenekizkien apaizen izenak.
+     - Zuk zenekizkien apaizen izenak.
+     - Zenekizkien apaizen izenak.
+    Translation: You knew the names of the priests.
+    Alternative translations:
+     - You knew the priests' names.
+
+  - Phrase: Medikuak bazekizkien nola kotxea eta autobusa gidatzen.
+    Alternative versions:
+     - Medikuak bazekizkien kotxea eta autobusa gidatzen.
+     - Medikuak zekizkien nola kotxea eta autobusa gidatzen.
+     - Medikuak zekizkien kotxea eta autobusa gidatzen.
+    Translation: The doctor knew how to drive the car and the bus.
+
+  - Phrase: Guk bagenekizkien irakasleen izenak.
+    Alternative versions:
+     - Bagenekizkien irakasleen izenak.
+     - Guk genekizkien irakasleen izenak.
+     - Genekizkien irakasleen izenak.
+    Translation: We knew the names of the teachers.
+    Alternative translations:
+     - We knew the teachers' names.
+
+  - Phrase: Zuek bazenekizkiten nola dantzan eta abesten.
+    Alternative versions:
+     - Bazenekizkiten dantzan eta abesten.
+     - Zuek zenekizkiten nola dantzan eta abesten.
+     - Zenekizkiten dantzan eta abesten.
+    Translation: You all knew how to dance and sing.
+    Alternative translations:
+     - You (plural) knew how to dance and sing.
+     - You'll knew how to dance and sing.
+     - You knew how to dance and sing.
+
+  - Phrase: Erizainek bazekizkiten emakumeen izenak.
+    Alternative versions:
+     - Erizainek zekizkiten emakumeen izenak.
+    Translation: The nurses knew the names of the women.
+    Alternative translations:
+     - The nurses knew the women's names.
+Mini-dictionary:
+  Basque:
+    - Ainhoa: Ainhoa
+    - Aitorren: Aitor's (male name)
+    - Alemania: Germany
+    - Alemaniakoak: of Germany
+    - Alemaniakoa: of Germany
+    - Alemaniako: of Germany
+    - Alemanian: in Germany
+    - Alemaniara: To Germany
+    - alemana: German
+    - alemanez: in German
+    - Anearenak: Anea's (female name, plural object)
+    - Anitza: Anitza (female name)
+    - Anitzaen: Anitza's (female name, single object)
+    - Anitzari: to Anitza
+    - Anitzak: Anitza
+    - Arrano: Arrano (name of a street)
+    - Bilbo: Bilbao
+    - Bilbokoak: of  Bilbao
+    - Bilbokoa: of  Bilbao
+    - Bilboko: of  Bilbao
+    - Bilbon: in Bilbao
+    - Bilbora: To Bilbao
+    - Done: Saint
+    - Donostiakoak: of San Sebastian
+    - Donostiakoa: of San Sebastian
+    - Donostiako: of San Sebastian
+    - Donostian: in San Sebastian
+    - Donostiara: To San Sebastian
+    - Donostia:  San Sebastian
+    - Donostiatik: from San Sebastian
+    - erdara: a foreign language (usually a language other than Basque, French or Spanish)
+    - erdaraz: in erdara
+    - Espainiakoak: of Spain
+    - Espainiakoa: of Spain
+    - Espainiako: of Spain
+    - Espainian: in Spain
+    - Espainiara: To Spain
+    - espainiar: Spanish
+    - Espainiatik: from Spain
+    - espainiera: Spanish Language
+    - espainieraz: in Spanish
+    - Europan: in Europe
+    - Europara: To Europe
+    - Europatik: from Europe
+    - euskal: basque
+    - Euskal Herri: Basque Country
+    - Euskal Herrira: to Basque Country
+    - euskara: Basque Language
+    - euskaraz: in Basque
+    - Francian: in France
+    - Frantzian: in France
+    - Frantziara: To France
+    - Frantziatik: from France
+    - frantsesa: French
+    - frantsesez: in French
+    - Gasteizekoak: of Vitoria
+    - Gasteizekoa: of Vitoria
+    - Gasteizeko: from Vitoria
+    - Gasteizen: in Vitoria (city in Basque Country)
+    - Gasteizera: To Vitoria
+    - Gasteizetik: from Vitoria
+    - Gasteiztik: from Vitoria
+    - Gasteiz: Vitoria
+    - Herriko: of the country
+    - Herrira: in the country
+    - ingelesa: English language
+    - ingeles: English language
+    - ingelesez: In English
+    - Irunen: in Irun
+    - Irunera: To Irun
+    - Irunetik: from Irun
+    - Irungoak: of Irun
+    - Irungoa: of Irun
+    - Irungo: of Irun
+    - Italia: Italy
+    - Italian: in Italy
+    - Italiara: To Italy
+    - Itziaren: Itziar's
+    - Jakue: James
+    - Joseba: Joseba
+    - Josebak: Joseba
+    - Josebari: to Joseba
+    - Lili: Lili (LibreLingo Turtle)
+    - Madrilen: in madrid
+    - Madrilera: To Madrid
+    - Mikelenak: Mikel's (male name)
+    - Mikelen: Mikel's (male name)
+    - Mikeli: to Mikel
+    - Mikelek: Mikel
+    - Mirenen: Miren's (female name)
+    - Mireni: to Miren
+    - Miren: Miren's (female name)
+    - Mirenek: Miren
+    - Olentzero: Olentzero (Basque Santa)
+    - Parisen: in Paris
+    - Parisetik: from Paris
+    - Paris: Paris
+    - Santa: Santa
+    - Santiagon: in Santiago
+    - Santiagora: to Santiago
+    - Santiago: Santiago de Compostela (city in Galicia, Spain)
+    - Xabieren: Xabier's (male name)
+    - urtaro: Season
+    - urtaroak: seasons
+    - hilabete: month
+    - hilabetea: month
+    - hilabeteak: months
+    - hilabetean: in last month
+    - udaberria: Spring
+    - udaberrian: in the spring
+    - udaberriaren: of the spring
+    - uda: Summer
+    - udaren: of summer
+    - udazkena:
+      - Autumn
+      - Fall
+    - Negua: Winter
+    - neguan: in winter
+    - neguaren: of winter
+    - Urtarrila: January
+    - Urtarrilean: in January
+    - Otsaila: February
+    - Otsailean: in February
+    - martxoa: March
+    - martxoan: in March
+    - apirila: April
+    - apirilean: in April
+    - maiatza: May
+    - maiatzean: in May
+    - ekaina: June
+    - ekainaren: of June
+    - ekainean: in June
+    - uztaila: July
+    - uztailean: of July
+    - uztailean: in july
+    - abuztua: August
+    - abuztuan: in August
+    - abuztuaren: of August
+    - Iraila: September
+    - Irailean: in September
+    - Irailaren: of September
+    - Urria: October
+    - Urrian: in October
+    - urriaren: of October
+    - Azaroa: November
+    - Azaroan: in November
+    - Abendua: December
+    - abenduan: in December
+    - Abenduaren: of December
+    - aste: Week
+    - astea: a week
+    - astean:
+      - in a week
+      - week
+    - asteko: of the week
+    - astero: every week
+    - astelehena: Monday
+    - Astelehenean: on Monday
+    - asteartea: Tuesday
+    - asteartean: on Tuesday
+    - asteazkena: Wednesday
+    - asteazkenean: on Wednesday
+    - osteguna: Thursday
+    - ostegunean: on Thursday
+    - ostirala: Friday
+    - ostiralean: on Friday
+    - larunbata: Saturday
+    - Larunbatean: in/on Saturday
+    - igandea: Sunday
+    - Igandean: on Sunday
+    - Igandero: every Sunday
+    - lehen: first
+    - lehena: first
+    - bigarren: second
+    - hirugarren: third
+    - laugarren: fourth
+    - bosgarren: fifth
+    - seigarren: sixth
+    - zazpigarren: seventh
+    - zortzigarren: eighth
+    - bederatzigarren: ninth
+    - hamargarren: tenth
+    - hamaikagarren: eleventh
+    - hamabigarren: twelfth
+    - azken: last
+    - bat: one
+    - batzuk: a few
+    - bi: two
+    - hiru: three
+    - lau: four
+    - bost: five
+    - bostetan: at five
+    - seietan: at six
+    - sei: six
+    - zazpi: seven
+    - zortzi: eight
+    - bederatzi: nine
+    - bederatzietan: at nine
+    - hamarretan: at ten
+    - hamar: ten
+    - hamaika: eleven
+    - hamaiketan: at eleven
+    - hamabi: twelve
+    - hamahiru: thirteen
+    - hamalau: fourteen
+    - hamabost: fifteen
+    - hamabostetan: at fifteen
+    - hamasei: sixteen
+    - hamazazpi: seventeen
+    - hemazortzi: eighteen
+    - hemeretzi: nineteen
+    - hogei: twenty
+    - hogeita: twenty
+    - hogeita hamar: thirty
+    - berrogei: forty
+    - berrogeita: forty
+    - berrogeita hamar: fifty
+    - hirurogei: sixty
+    - hirurogeita: sixty
+    - hirurogeita hamar: seventy
+    - laurogei: eighty
+    - laurogeita: eighty
+    - laurogeita hamar: ninety
+    - ehun: One hundred
+    - berrehun: Two hundred
+    - hirurehun: Three hundred
+    - laurehun: Four hundred
+    - bostehun: Five hundred
+    - seiehun: Six hundred
+    - zazpiehun: Seven hundred
+    - zortziehun: Eight hundred
+    - bederatziehun: Nine hundred
+    - mila: thousand
+    - milioi: million
+    - miliar: billion
+    - ordu: hour
+    - bata: one o'clock
+    - biak: two o'clock
+    - hirurak: three o'clock
+    - laurak: four o'clock
+    - bostak: five o'clock
+    - seiak: six o'clock
+    - zazpiak: seven o'clock
+    - zortziak: eight o'clock
+    - bederatziak: nine o'clock
+    - hamarrak: ten o'clock
+    - hamaikak: eleven o'clock
+    - hamabiak: twelve o'clock
+    - eguerdia: noon
+    - eguerdian: at noon
+    - gauerdi: midnight
+    - gauerdia: midnight
+    - gauerdian: at midnight
+    - gaur gauean: tonight
+    - gaur: today
+    - gauean: at night
+    - erdia: half
+    - erdiak: half
+    - erdietan: at half
+    - laurdena: quarter
+    - laurdenak: quarter
+    - persona: person
+    - bider:
+      - times
+      - multiplied by
+    - gehi: plus
+    - abesten: sing
+    - abestuko: will sing
+    - abesti: song
+    - abestia: song
+    - abestiak: songs
+    - abestirik: any  songs
+    - abestu: sang
+    - agur: goodbye
+    - ahal:
+      - able to
+      - could
+      - can
+    - ahizpa: sister of a sister
+    - ahizparen: sister's
+    - ahizpek: sisters
+    - ahulak: weak
+    - ahula: weak
+    - ahul: weak
+    - ahuntz: goat
+    - ahuntza: goat
+    - ahuntzak: goats
+    - ahuntzek: goats
+    - aireportua: airport
+    - aireportuan: in the airport
+    - aireportutik: from the airport
+    - aitona-amonak: grandparents
+    - aiton-amonek: grandparents
+    - aiton: grandfather
+    - aitona: grandfather
+    - aitonaren: grandfather's
+    - aita: father
+    - aitak: fathers
+    - aitaren: father's
+    - al: question word
+    - alaba: daughter
+    - alabak: daughters
+    - alabaren: daughter's
+    - aldatu: changed
+    - aldatzen: change
+    - aldatuko: will change
+    - aldean: side (Noren case)
+    - aldea: the side
+    - alde: side
+    - alkandora: shirt
+    - altua:
+      - tall
+      - high
+    - altuak:
+      - tall
+      - high
+    - altuaren: tall(noren case)
+    - ama: mother
+    - amak: mothers
+    - amaren: mother's
+    - amari: to the mother
+    - amets: dream
+    - amei: to the mothers
+    - amek: mother
+    - amon: grandmother
+    - amona: grandmother
+    - amonak: grandmothers
+    - amonaren: grandmother's
+    - anaia: brother of a brother
+    - anaiak: brothers of a brother
+    - anaian: brother of a brother's
+    - anaiaren: brother's
+    - animalia: animal
+    - animaliak: animals
+    - animatuta: excited
+    - apaiza: priest
+    - apaizak: priests
+    - apaizek: priests
+    - apaizen: of the priests
+    - apaizei: to priests
+    - ardi: sheep
+    - ardia: sheep
+    - ardiak: sheep (plural)
+    - ardo: wine
+    - argala: thin
+    - arkatz: pencil
+    - arkatza: pencil
+    - arkatzak: pencils
+    - arrain: fish
+    - arraina: fish
+    - arrainak: fish (plural)
+    - arratsalde: afternoon
+    - arreba: sister of a brother
+    - arrebaren: sister's
+    - arrebaek: sisters
+    - arropa: clothing
+    - arrotz: stranger
+    - arrotza: stranger
+    - arrotzak: strangers
+    - arte: until
+    - artean: between
+    - asko:
+      - a lot
+      - lots
+      - very much
+    - aspertu: bored
+    - aspertua: bored
+    - aspertuak: bored
+    - atearen: door (Noren case)
+    - atea: the door
+    - ateak: doors
+    - ate: door
+    - ateratzen: leave
+    - aterako: will leave
+    - aterki: umbrella
+    - aterkia: umbrella
+    - aterkiak: umbrellas
+    - atzean: behind
+    - atzo: yesterday
+    - aulkia: chair
+    - aulkiak: chairs
+    - aulkian: on the chair
+    - aulkiaren: chair (Noren case)
+    - aulkia: the chair
+    - aulki: chair
+    - aulkirik: any chair(s)
+    - autobus: bus
+    - autobusa: bus
+    - autobusak: buses
+    - autobusean: on the bus
+    - autobusetara: to the buses
+    - autobusez: by bus
+    - autobusik: any bus
+    - aurrean: in front (of)
+    - azkar: fast
+    - azkarra: fast
+    - azkarrak: fast
+    - azken: last
+    - azpian: under
+    - badago: there is
+    - badakigu: we know it
+    - badaki: he/she knows it
+    - badakite: they know it
+    - badakizkigu: We know them
+    - badakizki: He/she knows them
+    - badakizkite: They know them
+    - badakizkit: I know them
+    - badakizkizue: You (plural) know them
+    - badakizkizu: You know them
+    - badakizue: you (plural) know it
+    - badakizu: you know it
+    - badaude: there are
+    - bagenekien: We knew it
+    - bagenekizkien: We knew them
+    - bagidatzen: to drive
+    - baina: but
+    - baizik: but rather
+    - bakarra: only
+    - bakarrik: only
+    - baloia: ball
+    - baloiak: balls
+    - baloi: ball
+    - banekien: I knew it
+    - banekizkien: I knew them
+    - bankua: bank
+    - banku: bank
+    - bankuko: of the bank
+    - bankura: to the bank
+    - bankutik: from the bank
+    - barkatu: sorry
+    - barre: laugh
+    - barrez: laughing
+    - barruan: inside
+    - basoa: forrest
+    - basoan: in the forest
+    - basora: to the forest
+    - basotik: from the forest
+    - basserietara: to the farm/farm houses
+    - batean: in a
+    - batek: one
+    - bati: to a
+    - baxua: low
+    - bazekien: He/she knew it
+    - bazekiten: They knew it
+    - bazekizkien: He/she knew them
+    - bazekizkiten: They knew them
+    - bazenekien: You knew it
+    - bazenekiten: You (plural) knew it
+    - bazenekizkien: You knew them
+    - bazenekizkiten: You (plural) knew them
+    - baserri:
+      - farm
+      - farmhouse
+    - baserria:
+      - farm
+      - farmhouse
+    - baserrian: on a farm
+    - bazegoen: there was
+    - begira: look
+    - behar:
+      - must
+      - have to
+      - had to
+    - beharko: future of behar
+    - behean: downstairs
+    - behi: cow
+    - behia: cow
+    - behiak: cows
+    - behiek: cows
+    - behiaren: cow (Noren)
+    - beldur: afraid
+    - belarra: grass
+    - beltz: black
+    - beltza: black
+    - beltzak: black
+    - beltzaren: black
+    - berandu: late
+    - beraz: so-so
+    - berde: green
+    - berdea: green
+    - berdeak: green
+    - berdearen: green
+    - berdin: same
+    - bere:
+      - his
+      - hers
+      - its
+    - berea:
+      - his
+      - hers
+      - its
+    - bero: hot
+    - beroa: hot
+    - beroak: hot
+    - berria: new
+    - berriak: new
+    - berriaren: new (noren case)
+    - berokia: coat
+    - berokiak: coats
+    - betaurrekoak: glasses
+    - beti: always
+    - bideaj: roads
+    - bidea: road
+    - bide: road
+    - bide: road
+    - biratu: turn
+    - bihar: tomorrow
+    - biloba:
+      - grandson
+      - granddaughter
+    - bilobak: grandchildren
+    - bisita: visit
+    - bizikleta: bicycle
+    - bizikleta: bicycle(Noran case)
+    - bizikletaetara: to the bicycles
+    - bizikletak: bicycles
+    - bizikletarik: any bicycles
+    - bizikletaz: by bicycle
+    - biziko: will live
+    - bizi: live
+    - bizirik: alive
+    - boligrafoak: pens
+    - boligrafoa: pen
+    - boligrafo: pen
+    - bustiak: wet
+    - bustia: wet
+    - camarero: waiter
+    - camareroa: the waiter
+    - camareroak: waiters
+    - camareroek: waiters
+    - da: is
+    - dabil: he/she/it is walking
+    - dabiltza: they are walking
+    - dago: is
+    - dagoeneko: already
+    - dagoelako: because he/she is   (egon)
+    - dakigu: we know it
+    - daki: he/she knows it
+    - dakit: I know it
+    - dakite: they know it
+    - dakizkigu: We know them
+    - dakizki: He/she knows them
+    - dakizkite: They know them
+    - dakizkit: I know them
+    - dakizkizue: You (plural) know them
+    - dakizkizu: You know them
+    - dakizue: you (plural) know it
+    - dakizu: you know it
+    - dator:
+      - He is coming
+      - She is coming
+      - It is coming
+    - datorren: next
+    - datoz: They are coming.
+    - daude: are (egon)
+    - daudelako: because they are  (egon)
+    - daukagu: We have it
+    - dauka: He/she/it has it
+    - daukate: They have it
+    - daukat: I have it
+    - daukazue: You (plural) have it
+    - dauzkat: I have them
+    - dauzkazu: You have them
+    - dauzka: He/she/it has them
+    - dauzkagu: We have them
+    - dauzkazue: You (plural) have them
+    - dauzkate: They have them
+    - daukazu: You have it
+    - delako: because he/she is (izan)
+    - dena: everything
+    - denbora: time
+    - denborak: times
+    - dendaetara: to the stores
+    - dendako: of the store
+    - dendak: stores
+    - dendan: in a store
+    - dendara: to the store
+    - denda: store
+    - dendetako: of the stores
+    - dendetara: to the stores
+    - dendetatik: from stores
+    - denek: everybody
+    - dira: are
+    - diru: money
+    - dirurik: any money
+    - direlako: because they are (izan)
+    - dirudunak: rich
+    - diruduna: rich
+    - dirudun: rich
+    - dirua: money
+    - dirurik: any money
+    - ditugu: We have them
+    - ditu: He/she/it has them
+    - ditut: I have them
+    - dituzte: They have them
+    - dituzue: You (plural) have them
+    - dituzu: You have them
+    - dantza: dance
+    - dantzan: to dance
+    - dantzatzen: dance
+    - doa:
+      - he is going
+      - she is going
+      - it is going
+    - doaz: they are going
+    - dortoka: a turtle
+    - dortokak: turtles
+    - dortokarik: any turtles
+    - duela: ago
+    - dugu: We have/ukan it
+    - du: He/she/it has/ukan it
+    - dute: They have/ukan it
+    - dut: I have/ukan it
+    - duzue: You (plural) have/ukan  it
+    - duzu: You have/ukan it
+    - edo: or
+    - egarriak: thirsty
+    - egarria: thirsty
+    - egarri: thirsty
+    - egin:
+      - was made
+      - do (command)
+      - did
+    - egiten:
+      - do
+      - is made
+    - egingo:
+      - will do
+      - will be made
+    - egon:
+      - stayed
+      - stay (command)
+      - do
+    - egongo: will stay/be at a location
+    - egosi: cooked
+    - egosten: cook (present)
+    - egostiko: will cook
+    - egoten: stay/be at a location
+    - eguna: day
+    - egun: day
+    - egunero: every day
+    - egunkariak: newspapers
+    - egunkaria: newspaper
+    - egunkari: newspaper
+    - eguraldia: weather
+    - eguraldi: weather
+    - eguzkia: sun
+    - eguzki: sun
+    - eguzkitsua: sunny
+    - eguzkitsu: sunny
+    - ekaitza: storm
+    - ekaitz: storm
+    - ekarri:
+      - bring (command)
+      - brought
+    - ekartzen: bring
+    - ekarriko: will bring
+    - eliza: church
+    - elizaetara: to the churches
+    - elizaetatik: from churches
+    - elizak: churches
+    - elizako: of the church
+    - elizan: in a church
+    - elizara: to a church
+    - elizatik: from church
+    - elizetako: of the churches
+    - elizetan: at churches
+    - elurra: snow
+    - elurran: in the snow
+    - elur: snow
+    - emakume: woman
+    - emakumea: woman
+    - emakumeak: women
+    - emakumeek: women
+    - emakumeen: of the women
+    - emakumeari: to the woman
+    - eman: give
+    - emaztea: wife
+    - entzun:
+      - listen (command)
+      - heard
+      - listened to
+    - entzuten:
+      - hear
+      - listen to
+    - entzungo:
+      - will hear
+      - will listen to
+    - epa: hi
+    - epel: warm
+    - epela: warm
+    - erabili: used
+    - erabiltzen: use
+    - erabiliko: will use
+    - eraman: carried
+    - eramaten: carry
+    - eramango: will carry
+    - eraztuna: ring
+    - eraztunak: rings
+    - ere: also
+    - erizain: nurse
+    - erizaina: nurse
+    - erizainak: nurses
+    - erizainek: nurses
+    - erizainen: of the nurses
+    - erizainei: to the nurses
+    - erloju:
+      - watch
+      - clock
+    - erlojua:
+      - watch
+      - clock
+    - erlojuak:
+      - watches
+      - clocks
+    - erlojuen:
+      - watches(noren case)
+      - clocks(noren case)
+    - erlojurik:
+      - a watch
+      - any watches
+      - a clock
+      - any clocks
+    - erori: fell
+    - erortzen: fall
+    - eroriko: will fall
+    - esango: will say
+    - esan: said
+    - esaten: say
+    - eseri: sit
+    - esku: hand
+    - eskua: hand
+    - eskuz: by hand
+    - eskuak: hands
+    - etorri: came
+    - etorriko: will come
+    - etortzen: come
+    - etzaten: lie down
+    - etzango: will lie down
+    - eseri: sat
+    - eseriko: will sit
+    - eserten: sit
+    - eserita:
+      - sitting
+      - seated
+    - eskolara: to school
+    - eskolaetara: to schools
+    - eskolaetatik: from schools
+    - eskolako: of the school
+    - eskolak: schools
+    - eskolan: in a school
+    - eskola: school
+    - eskolatik: from school
+    - eskoletako: of the schools
+    - eskuinean: On the right(inessive of eskuin)
+    - eskuinera: to the right
+    - eskuin: right
+    - eskularruak: gloves
+    - esnatuko: will wake up
+    - esnatu: woke
+    - esnatzen: wake up
+    - eta: and
+    - etorri: come
+    - etxea: house
+    - etxeak: houses
+    - etxean: in a house
+    - etxearen: house(noren case)
+    - etxeetako: of the houses
+    - etxera: to a house, to home
+    - etxeetara: to the houses
+    - etxe: house
+    - etxekoandrea: housewife
+    - etxekoandreak: housewives
+    - etxekoandreek: housewives
+    - etxeko: of the house
+    - etxetik: from home, from a house
+    - euria: rain
+    - euripean: in the rain
+    - euri: rain
+    - euritsu: rainy
+    - euritsua: rainy
+    - euro: euro
+    - euskaldun: Basque
+    - ez: not, no
+    - ezer: anything
+    - ezin:
+      - not able to
+      - could not
+      - couldn't
+    - ezker: left
+    - ezkerrean: On the left(inessive of ezker)
+    - ezkerrera: to the left
+    - eztul: cough
+    - ferry: ferry
+    - ferrya: the ferry
+    - ferryz: by ferry
+    - gabiltza: we are walking
+    - gabon: good night
+    - gainean:
+      - on
+      - over
+    - gaixo: sick
+    - gaixorik: any sickness
+    - galdu: lost
+    - galtzerdi: socks(noren case)
+    - galtzerdiak: socks
+    - gara: are
+    - garelako: because we are (izan)
+    - garaiz: on time
+    - garbia: clean
+    - garbiak: clean
+    - garbitu: cleaned
+    - garbi: clean
+    - garbitzen: clean
+    - garbitu: cleaned
+    - garbituko: will clean
+    - gatoz: We are coming
+    - gaude: are (egon)
+    - gaudelako: because we are  (egon)
+    - gauero: every night
+    - gauez: at night
+    - gaur: today
+    - gaztea: young
+    - gelak: rooms
+    - gela: room
+    - gelara: to the room
+    - gelditen: remains, is left
+    - geldituko: will remain, will be left
+    - gelditu: remained, was left
+    - geldituko: will stop
+    - gelditu:
+      - stopped
+      - stop (command)
+    - gelditzen: stop
+    - geltokian: in the station
+    - geltokiak: stations
+    - geltokietako: of the stations
+    - geltokiko: of the station
+    - geltokira: to the station
+    - geltoki: station
+    - geltokia: the station
+    - geltokitik: from the station
+    - genbiltzan: We  were walking
+    - genekien: We knew it
+    - genekizkien: We knew them
+    - gidatzen: to drive
+    - genituen: We had them
+    - genuen: We had it
+    - geneukan: We had it
+    - geneuzkan: We had them
+    - gentozen: We were coming
+    - geratuko: will stay
+    - geratu: stay
+    - gero:
+      - then
+      - after
+      - later
+    - gerrikoa: belt
+    - gerrikoaren: belt (Noren case)
+    - gerrikoak: belts
+    - gertu: near
+    - geunden: We were (egon)
+    - geundelako: because we were (egon)
+    - goizean: morning
+    - gizon: man
+    - gizonak: men
+    - gida: guide
+    - gidak: guides
+    - gidaria: driver
+    - gidariaren: driver's
+    - gidariak: drivers
+    - gidariek: drivers
+    - gidariari: to the driver
+    - gindoazen: we were going
+    - ginen: we were
+    - ginelako: because we were
+    - gizen: fat
+    - gizena: fat
+    - gizenak: fat
+    - gizenaren: fat (noren case)
+    - gizona: man
+    - gizonek: men
+    - gizonari: to the man
+    - goaz: we are going
+    - goian: upstairs
+    - goiz: early
+    - gonaen: skirts(Noren)
+    - gonak: skirts
+    - gona: skirt
+    - gorriak: red
+    - gorria: red
+    - gorriaren: red(noren case)
+    - gorri: red
+    - gosea: hungry
+    - goseak: hungry
+    - gose: hungry
+    - gradu: degree
+    - gris: gray
+    - grisa: gray
+    - grisen: gray (Noren case)
+    - grisak: gray
+    - grisetan: gray(noren case)
+    - guk: we
+    - guraso: parent
+    - gurasoa: parent
+    - gurasoak: parents
+    - gurasoen: parents'
+    - gu: we
+    - gure: our
+    - gurea: ours
+    - gureak: ours
+    - guri: to us
+    - gustatuko: will like (will be pleasing)
+    - gustatu: liked (was pleasing)
+    - gustatzen: like (is pleasing)
+    - gutxitan: rarely
+    - gutxitan: seldom
+    - gutxi:
+      - little (amount)
+      - few
+    - haiei: to them
+    - hari: to him/her/it
+    - haiek:
+      - those over there, plural of hura
+      - they
+    - haiena: theirs
+    - haien: their
+    - haizetsu: windy
+    - haizetsua: windy
+    - handi: big
+    - handia: big
+    - handiak: big
+    - handiaren: big (noren case)
+    - han: there
+    - hark: he, she, it
+    - hartuko: will take
+    - hartu:
+      - took
+      - take (command)
+    - hartzen: take
+    - haserre: angry
+    - hauek: These, plural of hau
+    - hau: this
+    - hegazkin: airplane
+    - hegazkinak: airplanes
+    - hegazkina: the airplane
+    - hegazkinez: by airplane
+    - hemen: here
+    - hemendik: from here
+    - herrian: country
+    - heze: humid
+    - hezea: humid
+    - hezerik: any humid
+    - hezetasuna: humidity
+    - hezetasun: humidity
+    - hilabetean: month (in a)
+    - hil: killed
+    - hiltzen: kill
+    - hilko: will kill
+    - hilda: dead
+    - hilero: every month
+    - hilean: month
+    - hitz:
+      - word
+      - speak
+    - hizkuntzak: languages
+    - hizkuntza: language
+    - hodei: cloud
+    - hodeia: cloud
+    - hodeiak: clouds
+    - hodeitsu: cloudy
+    - hodeitsua: cloudy
+    - hona: to here
+    - hondartza: beach
+    - hondartzan: on the beach
+    - hondartzara: to the beach
+    - hondartzaren: beach (noren case)
+    - hondartzatik: from the beach
+    - hontzaren: owl's
+    - hontzak: owls
+    - hontza: owl
+    - hontz: owl
+    - hor: there
+    - hori:
+       - that
+       - yellow
+    - horiak: yellow
+    - horia: yellow
+    - horiek: Those, plural of hori
+    - hormak: walls
+    - horma: wall
+    - hosto: leaf
+    - hostoa: leaf
+    - hostoak: leaves
+    - hotelak: hotels
+    - hotelaren: hotel (noren case)
+    - hotelean: in a hotel
+    - hoteleko: of the hotel
+    - hotelera: to the hotel
+    - hoteletako: of the hotels
+    - hoteletatik: from hotels
+    - hoteletik: from a hotel
+    - hotel: hotel
+    - hots: call
+    - hotz: cold
+    - hotza: cold
+    - hotzak: cold
+    - hoztu: cool
+    - hoztua: cool
+    - hura:
+      - that over there
+      - he
+      - she
+      - it
+    - ibaia: river
+    - ibaian: in a river
+    - ibaira: to the river
+    - ibaiaren: river (Noren)
+    - ibiliko: will walk
+    - ibili: walked
+    - ibiltzen: walk
+    - idatzi:
+      - write (command)
+      - wrote
+    - idazten: write
+    - idatziko: will write
+    - igo:
+      - climb
+      - ascend
+      - go up
+    - ikasle: student
+    - ikasleak: students
+    - ikasleen: students'
+    - ikasleenak: students'
+    - ikasleei: to students
+    - ikusiko: will see
+    - ikusi: saw
+    - ikusten: see
+    - iloba:
+      - niece
+      - nephew
+    - ilobak:
+      - nieces
+      - nephews
+    - indartsuak: strong
+    - indartsua: strong
+    - indartsu: strong
+    - ingeniaria: engineer
+    - ingeniari: engineer
+    - inoiz: ever
+    - inor: anybody
+    - interesatuko: will be interesting to
+    - interesatu: was interesting to
+    - interesatzen: is interesting to
+    - irakasleak: teachers
+    - irakaslea: teacher
+    - irakasleen: of the teachers
+    - irakasle: teacher
+    - irakasleari: to the teacher
+    - irakasleei: to the teachers
+    - irakasten: teach
+    - irakatsiko: will teach
+    - irakatsi: taught
+    - irakurri:
+      - read (command)
+      - read (past)
+    - irakurriko: will read
+    - irakurtzen: read (present)
+    - ireki: opened
+    - irekitzen: open
+    - irekiko: will open
+    - irribarre: smile
+    - iristen: arrive
+    - iritsi: arrived
+    - iritsiko: will arrive
+    - irribarre: smiling
+    - irudituko: will seem
+    - iruditu: seemed
+    - iruditzen: seems
+    - isildu: quiet
+    - itsusi: ugly
+    - itsusia: ugly
+    - itsusiaren: ugly (noren case)
+    - itxi: closed
+    - ixten: close
+    - itxiko: will close
+    - izan: 2d part of some compound verbs
+    - izango: future of izan
+    - izeba: aunt
+    - izebak: aunts
+    - izebek: aunts
+    - izebaren: aunt's
+    - izen: name
+    - izena: name
+    - izenak: names
+    - izkina: corner
+    - izkinan: at the corner
+    - izoztuta: frozen
+    - itxaron: wait
+    - jaitsi: descend/go down
+    - jatorra: nice
+    - jatoraren: nice (noren case)
+    - jaka: jacket
+    - jakak: jackets
+    - jan: ate
+    - jango: will eat
+    - jaso: received
+    - jasotzen: receive
+    - jasoko: will receive
+    - jaten: eat (present)
+    - jatetxe: restaurant
+    - jatetxea: restaurant
+    - jatetxearen: restaurant (noren case)
+    - jatorak: nice
+    - jatora: nice
+    - jator: nice
+    - jertse: sweater
+    - jertsea: sweater
+    - jertseak: sweaters
+    - jertserik:
+      - a sweater
+      - any sweater
+    - joan:
+      - went (+izan)
+      - go (command)
+    - joaten: go (+izan)
+    - joango: will go (+izan)
+    - kale: street
+    - kalea: street
+    - kalean: in/on a street
+    - kalearen: street (noren)
+    - katua: a cat
+    - katuak: cats
+    - katu: cat
+    - kaixo: hello
+    - kilometro: kilometer
+    - kilometrora: kilometer (NORA case)
+    - komun:
+      - bathroom
+      - toilet
+    - komuna:
+      - bathroom
+      - toilet
+    - kamioi: truck
+    - kamioiak: trucks
+    - kamioiz: by truck
+    - kanpoan: outside
+    - kezkatuta: worried
+    - kontuz: careful (command)
+    - korri: run
+    - kosk: bite
+    - kostatzen: costs
+    - kostatu: cost
+    - kostatuko: will cost
+    - kotxea: car
+    - kotxeak: cars
+    - kotxe: car
+    - kotxera: to the car
+    - kotxez: by car
+    - laburrak: short
+    - laburra: short
+    - laguna: friend
+    - lagunaren: friend's
+    - lagunen: friend's
+    - lagun: friend
+    - lainoa: fog
+    - laino: fog
+    - lainotsu: foggy
+    - lainotsua: foggy
+    - laku: lake
+    - lakua: lake
+    - lakura: to the lake
+    - lan: work
+    - lanpetu: busy
+    - lanpetua: busy
+    - laranjak: orange
+    - laranja: orange
+    - larangaren: orange (noren case)
+    - lasai: relaxed, calm
+    - laster: soon
+    - lehengusina: cousin (female)
+    - lehengusua: cousin (male)
+    - lehengusinak: cousins (female)
+    - lehengusuak: cousins (male)
+    - lehengusu: cousin (male)
+    - lehengusuek: cousins
+    - lehengusuaek: cousins
+    - lehorra: dry
+    - lehorrak: dry
+    - leihoak: windows
+    - leihoan: in the window
+    - leihoa: the window
+    - leihoen: windows (Noren case)
+    - leiho: window
+    - liburua: a book
+    - liburua: books
+    - liburuak: books
+    - liburu: book
+    - liburuen: on books
+    - lo: sleep
+    - luzeak : long
+    - luzea: long
+    - luze: long
+    - mahaiak: tables
+    - mahaiaren: table (Noren case)
+    - mahaia: the table
+    - mahaian: on the table
+    - mahai: table
+    - maiz: often
+    - makina: machine
+    - makinak: machines
+    - makinaz: by machine
+    - marroi: brown
+    - marroia: brown
+    - marroiak: brown
+    - marroiaren: brown(noren case)
+    - medikua: doctor
+    - medikuak: doctors
+    - medikuek: doctors
+    - medikuei: to the doctors
+    - mendian: in, on the mountain
+    - mendietako: of the mountains
+    - mendietan: on the mountains
+    - mendietara: to the mountains
+    - mendietatik: from the mountains
+    - mendira: to the mountain
+    - menditik: from the mountain
+    - menu: menu
+    - menua: menu
+    - menuak: menus
+    - merkatua: market
+    - merkatura: to the market
+    - merkatuan: in the market
+    - merkatuaren: market (noren case)
+    - merkatu: market
+    - merkatutik: from the market
+    - metro: meter
+    - minutu: minute
+    - moduz: are you
+    - more: purple
+    - morea: purple
+    - mesedez: please
+    - moreen: purple(noren case)
+    - motel: slow
+    - motela: slow
+    - motelak: slow
+    - motor: motorcycle
+    - motora: motorcycle
+    - motorrak: motorcycles
+    - motorrez: by motorcycle
+    - motxila: backpack
+    - motxilak: backpacks
+    - mutila: boy
+    - mutilak: boys
+    - mutilek: boys
+    - mutil: boy
+    - mutikoari: to the boy
+    - mutillaguna: boyfriend
+    - mutillagunak: boyfriends
+    - mutillagunek: boyfriends
+    - nabil: I am walking
+    - nago: am (egon)
+    - nagoelako: because I am  (egon)
+    - naiz: am (izan)
+    - naizelako: because I am (izan)
+    - nator: I am coming
+    - neba: brother of a sister
+    - nebak: brothers of a sister
+    - negar: cry/weep
+    - negarrez: crying
+    - nekatu: tired
+    - nekien: I knew it
+    - nekizkien: I knew them
+    - nenbilen: I was walking
+    - nengoelako: because I was (egon)
+    - nengoen: I was (egon)
+    - nentorren: I was coming
+    - neska: girl
+    - neskak: girls
+    - neskari: to the girl
+    - neskei: to the girls
+    - neskek: girl
+    - neskalaguna: girlfriend
+    - neskalagunek: girlfriends
+    - neukan: I had it
+    - neuzkan: I had them
+    - ni: I
+    - nik: I
+    - nindoan: I was going
+    - nintzen: I was
+    - nintzelako: because I was
+    - nireak: mine
+    - nirea: mine
+    - nire: my
+    - niri: to me
+    - nituen: I had them
+    - noa: I am going
+    - nola: how
+    - normalean:
+      - normally
+      - usually
+    - nongoa:
+      - of which place
+      - from which place
+    - nora: where (to)
+    - noiz: when
+    - non: where
+    - nondik: from where
+    - norbait: somebody
+    - norenak: whose (plural)
+    - norena: whose
+    - noren: whose
+    - nor: who
+    - nortzuk: who (plural)
+    - nuen: I had it
+    - ohi: usually
+    - oihu: shout
+    - oilo: chicken
+    - oiloak: chickens
+    - oilaskoa: a chicken
+    - oilaskoak: chickens
+    - oilasko: chicken
+    - ona: good
+    - onak: good
+    - on: good
+    - oina: foot
+    - oinak: feet
+    - oinez: on foot
+    - oin: foot
+    - ondo:
+      - well
+      - fine
+    - orain : now
+    - ondoan:
+      - next to
+      - beside
+    - ondoren: after
+    - oraindik: still/yet
+    - osabak: uncles
+    - osabaren: uncle's
+    - osaba: uncle
+    - oso: very
+    - ostatu: mini-hotel
+    - ostatua: mini-hotel
+    - ostatuetatik: from mini-hotels
+    - ostatura: to the mini-hotel
+    - parkeak: parks
+    - parkean: in a park
+    - parkera: to the park
+    - parkearen: park (Noren case)
+    - parkea: the park
+    - parke: park
+    - parketako: of the parks
+    - pertsonei:
+      - to persons
+      - to people
+    - pasa: pass
+    - pertsona: person
+    - plaza:
+      - plaza
+      - square
+    - plazaen: to the plaza
+    - plazan: in a plaza
+    - plazaren:
+      - plaza (noren case)
+      - square (noren case)
+    - pobreak: poor
+    - pobrea: poor
+    - pobre: poor
+    - polita: pretty
+    - politak: pretty
+    - polizia: police officer
+    - poliziak: police officers
+    - poliziei: to the police officers
+    - poltsak: purses
+    - poltsa: purse
+    - poltsarik: any purses
+    - poltsaren: purse(Noren case)
+    - pozik:
+      - glad
+      - happy
+    - pozten:
+      - am glad
+      - rejoice
+    - poztuko:
+      - will be glad
+      - will rejoice
+    - prakak: trousers
+    - sagu: mouse
+    - sagua: mouse
+    - saguak: mice
+    - sartu: enter (command)
+    - seinale: sign
+    - seinalea: sign
+    - seinaleak: signs
+    - semaforo:
+      - stoplight
+      - traffic light
+    - semaforoa:
+      - stoplight
+      - traffic light
+    - semaforoan:
+      - at the stoplight
+      - at the traffic light
+    - semeak: sons
+    - semearen: son's
+    - semea: son
+    - seme: son
+    - seme-alabak:
+      - children
+      - sons and daughters
+    - senarra: husband
+    - senarrak: husbands
+    - soinekoa: dress
+    - soinekoak: dresses
+    - soineko: dress
+    - sukaldaria: cook
+    - sukaldariak: cooks
+    - sukaldatzen: to cook
+    - sukaldariekin: to the cooks
+    - suge: snake
+    - sugearen: snake's
+    - sugea: snake
+    - sugeak: snakes
+    - sugeek: snakes
+    - taberna:
+      - bar
+      - pub
+    - tabernara:
+      - to the bar
+      - to the pub
+    - tabernaren:
+      - bar (noren case)
+      - pub (noren case)
+    - taxiak: taxis
+    - taxia: taxi
+    - taxi: taxi
+    - taxiz: by taxi
+    - teilatuak: roofs
+    - teilatua: roof
+    - teilatu: roof
+    - tenperatura: temperature
+    - tour: tour
+    - tren: train
+    - trena: train
+    - trenak: trains
+    - trenez: by train
+    - triste: sad
+    - turista: tourist
+    - turistak: tourists
+    - Turistek: tourists
+    - turistei: to the tourists
+    - txakur: dog
+    - txakura: a dog
+    - txakurrak: dogs
+    - txakurrek: dogs
+    - txakurrik: any dogs
+    - txakurren: of the dogs
+    - txakurra: pig
+    - txakurrak: pigs
+    - txerriaren: pig (Noren)
+    - txano: hat
+    - txanoa: hat
+    - txanoak: hats
+    - txanoaren: hat(noren)
+    - txarra: bad
+    - txarrak: bad
+    - txar: bad
+    - txerri: pig
+    - txerria: pig
+    - txerriak: pigs
+    - txerriek: pig
+    - txiki: small
+    - txikia: small
+    - txikiak: small
+    - txikiaren: small (noren case)
+    - txori: bird
+    - txoria: bird
+    - txoriak: birds
+    - urrun: far
+    - urte: year
+    - urteko: of the year
+    - urtean: in a year
+    - urtebete: one year
+    - ume: child
+    - umea: child
+    - umeak: children
+    - urdin: blue
+    - urdina: blue
+    - urdinak: blue
+    - urdinaren: blue
+    - urte: year
+    - urtero: every year
+    - uso: pigeon
+    - usoa: a pigeon
+    - usoak: pigeons
+    - utzi:
+      - drop (command)
+      - release (command)
+      - let (command)
+      - leave (command)
+    - zabiltzate: you (plural) are walking
+    - zabiltza: you are walking
+    - zahara: old
+    - zaharrak: old
+    - zaharra: old
+    - zaie: it is to them
+    - zaigu: it is to us
+    - zaio: it is to him/her/it
+    - zait: it is to me
+    - zaizkie: they are to them
+    - zaizkigu: they are to us
+    - zaizkio: they are to him/her/it
+    - zaizkit: they are to me
+    - zaizkizue: they are to you(plural)
+    - zaizkizu: they are to you
+    - zaizue: it is to you (plural)
+    - zaizu: it is to you
+    - zaldia: horse
+    - zaldiak: horses
+    - zaldiek: horses
+    - zaldi: horse
+    - zaldirik: any horse
+    - zaldiz : on horseback, by horse
+    - zapatak: shoe
+    - zapata: shoe
+    - zara: are
+    - zarelako: because you are (izan)
+    - zarete: are
+    - zaretelako: because you (plural) are (izan)
+    - zatozte: You (plural) are coming
+    - zatoz: You are coming
+    - zaude: are (egon)
+    - zaudelako: because you are  (egon)
+    - zaudete: are (egon)
+    - zaudetelako: because you  (plural) are  (egon)
+    - zebilen: He/she was walking
+    - zebiltzan: They were walking
+    - zegoen:
+      - he was
+      - she was
+      - it was
+    - zein: which
+    - zekien: He/she knew it
+    - zekiten: They knew it
+    - zekizkien: He/she knew them
+    - zekizkiten: They knew them
+    - zelako: because he/she was
+    - zenbat: how many
+    - zenbiltzan: You were walking
+    - zenbiltzaten: You (plural) were walking
+    - zenekien: You knew it
+    - zenekiten: You (plural) knew it
+    - zenekizkien: You knew them
+    - zenekizkiten: You (plural) knew them
+    - zeneukan: You had it
+    - zeneukaten: You (plural) had it
+    - zeneuzkan: You had them
+    - zeneuzkaten: You (plural) had them
+    - zenituen: You had them
+    - zenituzten: You (plural) had them
+    - zentigradua: centigrade
+    - zentigraduak: centigrade
+    - zentigradu: centigrade
+    - zentozen: You were coming
+    - zentozten: You (plural) were coming
+    - zenuen: You had it
+    - zenuten: You (plural) had it
+    - zen: was
+    - zerbait: something
+    - zergatik: why
+    - zeruan: in the sky
+    - zerua: sky
+    - zeru: sky
+    - zer: what
+    - zetorren:
+      - he was coming
+      - she was coming
+      - it was coming
+    - zegoelako: because he/she was (egon)
+    - zetozen: They were coming
+    - zeudelako: because they were (egon)
+    - zeuden: They were (egon)
+    - zeukan: He/she/it had it
+    - zeukaten: They had it
+    - zeundelako: because you were (egon)
+    - zeunden: You were (egon)
+    - zeundetelako: because you (plural) were (egon)
+    - zeundeten: You (plural) were (egon)
+    - zeuzkan: He/she/it had them
+    - zeuzkaten: They had them
+    - zihoazen: they were going
+    - zihoan:
+      - she was going
+      - he was going
+    - zikin: dirty
+    - zikina: dirty
+    - zikinak: dirty
+    - zikin: dirty
+    - zindoazen: you were going
+    - zindoazten: you (plural) were going
+    - zinema:
+      - cinema
+      - movie theater
+    - zineak:
+      - cinemas
+      - movie theaters
+    - zinematik:
+      - from the cinema
+      - from the movie theater
+    - zinelako: because you were
+    - zinen: you were
+    - zinetelako: because you (plural) were
+    - zineten: you (plural) were
+    - zirelako: because they were
+    - ziren: they were
+    - zituen:
+      - he had them
+      - she had them
+      - it had them
+    - zituzten: They had them
+    - zoazte: you (plural) are going
+    - zoaz: you are going
+    - zorroa: wallet
+    - zorro: wallet
+    - zubiak: bridges
+    - zubian: on the bridge
+    - zubiaren: bridge (Noren case)
+    - zubia: the bridge
+    - zubi: bridge
+    - zubitik: from the bridge
+    - zuei: to you (plural)
+    - zuek: your (plural)
+    - zuenak: yours (plural)
+    - zuena: yours (plural)
+    - zuen:
+      - he had it
+      - she had it
+      - it had it
+    - zuk: you
+    - zuten: They had it
+    - zuen: yours
+    - zuhaitzak: trees
+    - zuhaitzean: in the tree
+    - zuhaitzera: to, up the tree
+    - zuhaitzetara: to the trees
+    - zuhaitzetik: down, from the tree
+    - zuhaitz: tree
+    - zureak: yours
+    - zurea: yours
+    - zure: your
+    - zuriak: white
+    - zuria: white
+    - zuriren: white (noren case)
+    - zuri:
+      - to you
+      - white
+    - zutik: standing
+    - zu: you
+    - zuzen: straight
+
+  English:
+    - Ainhoa: Ainhoa
+    - Aitor's: Aitorren (male name)
+    - Anea's: Anearenak (female name, plural object)
+    - Anitza: Anitza (female name)
+    - Anitza's: Anitzaen (female name, plural object)
+    - Lili: Lili (LibreLingo Turtle)
+    - Mikel's: Mikelenak (male name)
+    - Mikel's: Mikelen
+    - Mikel: Mikel
+    - Miren: Miren
+    - Miren's: Mirenen (female name)
+    - Miren's: Miren (female name)
+    - Olentzero: Olentzero (Basque Santa)
+    - Santa: Santa
+    - Xabier's: Xabieren (male name)
+    - Saint: Done
+    - James: Jakue
+    - Arrano: Arrano (name of a street)
+    - Bilbao: Bilbo
+    - Country: Herrian
+    - Europe: Europa
+    - France: Frantzia
+    - Germany: Alemania
+    - Irun: Irun
+    - Italy: Italia
+    - Itziar's: Itziaren
+    - Joseba: Joseba
+    - Madrid: Madril
+    - Paris: Paris
+    - San Sebastian: Donostia
+    - Santiago: Santiago de Compostela (city in Galicia, Spain)
+    - Spain: Espainia
+    - Vitoria: Gasteiz (city in Basque Country)
+    - Basque: euskara
+    - Spanish:
+      - espainiera
+      - espainiar
+    - English: ingeles
+    - French:
+      - frantsesa
+      - frantsesez (in French)
+    - German:
+      - alemana
+      - alemanez (in German)
+    - foreign language: erdara
+    - erdara: erdara (a foreign language)
+    - Season: urtaro
+    - seasons: urtaroak
+    - month: hilabete
+    - months: hilabeteak
+    - Spring: udaberria
+    - March: Martxoa
+    - April: Apirila
+    - May: Maiatza
+    - Summer: uda
+    - June: Ekaina
+    - July: Uztaila
+    - August: Abuztua
+    - Autumn: udazkena
+    - Fall: udazkena
+    - September: Iraila
+    - October: Urria
+    - November: Azaroa
+    - Winter: Negua
+    - December: Abendua
+    - January: Urtarrila
+    - February: Otsaila
+    - Week: aste
+    - Weeks: asteak
+    - Monday: astelehena
+    - Tuesday: asteartea
+    - Wednesday: asteazkena
+    - Thursday: osteguna
+    - Friday: ostirala
+    - Saturday: larunbata
+    - Sunday: igandea
+    - first: lehen
+    - second: bigarren
+    - third: hirugarren
+    - fourth: laugarren
+    - fifth: bosgarren
+    - sixth: seigarren
+    - seventh: zazpigarren
+    - eighth: zortzigarren
+    - ninth: bederatzigarren
+    - tenth: hamargarren
+    - eleventh: hamaikagarren
+    - twelfth: hamabigarren
+    - last: azken
+    - one: bat
+    - two: bi
+    - three: hiru
+    - four: lau
+    - five: bost
+    - six: sei
+    - seven: zazpi
+    - eight: zortzi
+    - nine: bederatzi
+    - ten: hamar
+    - eleven: hamaika
+    - twelve: hamabi
+    - thirteen: hamahiru
+    - fourteen: hamalau
+    - fifteen: hamabost
+    - sixteen: hamasei
+    - seventeen: hamazazpi
+    - eighteen: hemazortzi
+    - nineteen: hemeretzi
+    - twenty: hogei
+    - thirty: hogeita hamar
+    - forty: berrogei
+    - fifty: berrogeita hamar
+    - sixty: hirurogei
+    - seventy: hirurogeita hamar
+    - eighty: laurogei
+    - ninety: laurogeita hamar
+    - hundred: ehun
+    - thousand: mila
+    - million: milioi
+    - billion: miliar
+    - times:
+      - bider (multiply)
+      - denborak (plural)
+    - multiplied: bider (part of multiplied by)
+    - a: -a
+    - able: ahal
+    - afraid: beldur
+    - alive: bizirik
+    - after:
+      - ondoren
+      - gero
+    - afternoon: arratsalde
+    - ago: duela
+    - ahead: aurrera
+    - airplane: hegazkin
+    - airplanes: hegazkinak
+    - airport: aireportua
+    - all: part of you plural, you all
+    - already: dagoeneko
+    - also: ere
+    - always: beti
+    - am:
+      - naiz (izan)
+      - nago (egon)
+      - NORTAZ case
+    - among: artean
+    - an: -ak
+    - and: eta
+    - angry: haserre
+    - animal: animalia
+    - animals: animaliak
+    - any: -rik
+    - anybody: inor
+    - anything: ezer
+    - are:
+      - daude (izan)
+      - dira (izan)
+      - zara (izan)
+      - gara (izan)
+      - zarete (izan)
+      - zaude (egon)
+      - gaude (egon)
+      - zaudete (egon)
+      - daude (egon)
+    - arrive:
+      - iristen
+      - iritsiko
+    - arrived:  iritsi
+    - ascend: igo (command)
+    - at: not translated, part of insessive case
+    - ate: jan
+    - aunt: izeba
+    - aunts:
+      - izebak
+      - izebek
+    - aunt's: izebaren
+    - ball: baloi
+    - balls: baloiak
+    - backpack: motxila
+    - backpacks: motxilak
+    - bad: txar
+    - bank: banku
+    - bar: taberna
+    - basque:
+      - euskal
+      - euskaldun
+    - bathroom: komun
+    - be:
+      - egoten
+      - egongo
+    - beach: hondartza
+    - because:
+      - dagoelako because he/she is   (egon)
+      - daudelako because they are  (egon)
+      - gaudelako because we are  (egon)
+      - nagoelako because I am  (egon)
+      - zaudelako because you are  (egon)
+      - zaudetelako because you  (plural) are  (egon)
+      - nengoelako because I was (egon)
+      - zeundelako because you were (egon)
+      - zegoelako because he/she was (egon)
+      - geundelako because we were (egon)
+      - zeundetelako because you (plural) were (egon)
+      - zeudelako because they were (egon)
+      - naizelako because I am (izan)
+      - zarelako because you are (izan)
+      - delako because he/she is (izan)
+      - garelako because we are (izan)
+      - zaretelako because you (plural) are (izan)
+      - direlako because they are (izan)
+      - nintzelako because I was
+      - zinelako because you were
+      - zelako because he/she was
+      - ginelako because we were
+      - zinetelako because you (plural) were
+      - zirelako because they were
+    - belt: gerrikoa
+    - belts: gerrikoak
+    - beside: ondoan
+    - between: artean
+    - behind: atzean
+    - bicycle: bizikleta
+    - bicycles: bizikletak
+    - big: handi
+    - bird: txoria
+    - birds: txoriak
+    - bit: kosk egin (past)
+    - bites: kosk egiten (present)
+    - bite:
+      - kosk egingo (future)
+      - kosk egiten (present)
+    - black: beltz
+    - blue: urdin
+    - book: liburu
+    - books: liburuak
+    - bored: aspertu
+    - boy: mutil
+    - boys:
+      - mutilak
+      - mutilek
+    - boyfriend: mutillaguna
+    - boyfriends:
+      - mutillagunak
+      - mutillagunek
+    - bridges: zubiak
+    - bridge: zubi
+    - bring:
+      - ekarri (command)
+      - ekartzen (present)
+      - ekarriko (future)
+    - brings: ekartzen
+    - brother:
+      - neba
+      - anaia
+    - brother's:
+      - nebanen
+      - anaianen
+    - brothers:
+      - anaiak
+      - arrebak
+    - brought: ekarri
+    - brown: marroia
+    - bus: autobusa
+    - buses: autobusak
+    - busy: lanpetu
+    - but: baina
+    - by: Nortaz or instrumental case (by foot)
+    - call:
+      - hots egiten (presnt)
+      - hots egiten
+    - calls: hots egiten
+    - called: hots egin
+    - cough:
+      - eztul egingo (future)
+      - eztul egiten (present)
+    - coughs: eztul egiten (present)
+    - coughed: eztul egin
+    - calm: lasai
+    - came:
+      - nentorren (I)
+      - zentozen (You)
+      - zetorren (He/she/it)
+      - gentozen (We)
+      - zentozten (You (plural))
+      - zetozen (They)
+    - car: kotxea
+    - cars: kotxeak
+    - careful: kontuz (command)
+    - climb: igo (command)
+    - carried: eraman
+    - carry:
+      - eramaten
+      - eramango (future)
+    - cat: katu
+    - cats: katuak
+    - centigrade: zentigradu
+    - chair: aulki
+    - chairs: aulkiak
+    - change:
+      - aldatzen (present)
+      - aldatuko (future)
+    - changed: aldatu
+    - chicken: oilasko
+    - chickens: oilaskoak
+    - child: ume
+    - children:
+      - umeak
+      - seme-alabak
+    - church: eliza
+    - churches: elizak
+    - cinema: zinema
+    - clean:
+      - garbi
+      - garbitu
+      - garbitzen
+      - garbituko
+    - cleaned: garbitu
+    - close:
+      - itxi
+      - ixten
+      - itxiko
+    - closed: itxi
+    - clothing: arropa
+    - cloud: hodei
+    - clouds: hodeiak
+    - cloudy: hodeitsu
+    - coat: berokia
+    - coats: berokiak
+    - cold: hotz
+    - come:
+      - etortzen (present)
+      - etorriko (future)
+      - etorri (command)
+    - comes: dator
+    - coming:
+      - nator (I am)
+      - zatoz (you are)
+      - dator (he/she/it is)
+      - gatoz (we are)
+      - zatozte (you(plural) are)
+      - datoz (they are)
+      - nentorren (I was)
+      - zentozen (You were)
+      - zetorren (He/she/it was)
+      - gentozen (We were)
+      - zentozten (You (plural) were)
+      - zetozen (They were)
+    - cook:
+      - sukaldaria (noun)
+      - egosten (present)
+      - egostiko (future)
+      - sukaldatzen (present)
+    - cooked: egosi
+    - cooks: sukaldariak
+    - cool: hoztu
+    - corner: izkina
+    - cost:
+      - kostatu (past) (verb)
+      - kostatuko (will cost) (verb)
+    - costs: kostatzen (present)(verb)
+    - costing: kostatzen (present)(verb) (is costing)
+    - could: ahal
+    - couldn't: ezin
+    - cousin:
+      - lehengusu
+      - lehengusina
+    - cousins:
+      - lehengusuak
+      - lehengusinak
+      - lehengusuek
+      - lehengusuaek
+    - cow: behi
+    - cows:
+      - behiak
+      - behiek
+    - cry:
+      - negar egin (past)
+      - negar egiten (present)
+      - negar egingo (future)
+    - cries: negar egiten (present)
+    - cried: negar egin (past)
+    - crying: negarrez
+    - dance:
+      - dantza egiten (present)
+      - dantza egingo (future)
+      - dantzan
+      - dantzatzen
+    - dances: dantza egiten (present)
+    - danced: dantza egin
+    - day: egun
+    - days: egunak
+    - daughter: alaba
+    - daughters: alabak
+    - daughter's: alabaren
+    - dead: hilda
+    - degree: gradu
+    - degrees: graduak
+    - descend: jaitsi (command)
+    - did: egin
+    - do:
+      - egiten (present)
+      - egingo (future)
+    - don't: ez egon
+    - does: not translated
+    - doctor: medikua
+    - doctors: medikuak
+    - dog: txakur
+    - dogs:
+      - txakurrak
+      - txakurrek
+      - txakurren (of the dogs)
+    - door: ate
+    - doors: ateak
+    - down:
+      - behera
+      - part of lie down
+    - downstairs: behean
+    - dream:
+      - amets egin (past)
+      - amets egiten (present)
+      - amets egingo (future)
+    - dreams: amets egiten (present)
+    - dreamed: amets egin
+    - dress: soinekoa
+    - dresses: soinekoak
+    - drive: gidatzen
+    - driver's: gidariaren
+    - drives: gidatzen
+    - driver: gidaria
+    - drivers:
+      - gidariak
+      - gidariek
+    - drop: utzi (command)
+    - did: not translated
+    - dirty: zikin
+    - dry: lehorra
+    - early: goiz
+    - eat:
+      - jaten (present)
+      - jango (future)
+    - engineer: ingeniari
+    - enter: sartu (command)
+    - euro: euro
+    - euros: euro
+    - ever: inoiz
+    - every: -ero
+    - everybody: denek
+    - everything: dena
+    - excited: animatuta
+    - fast: azkar
+    - farm: baserri
+    - farmhouse: baserri
+    - fat: gizena
+    - father: aita
+    - fathers: aitak
+    - father's: aitaren
+    - fall:
+      - erortzen
+      - eroriko
+    - far: urrun
+    - feet: oinak
+    - fell: erori
+    - female: emakumezkoa
+    - ferry: ferry
+    - ferries: ferry
+    - few:
+      - gutxi
+      - batzuk (a few)
+    - fine: ondo
+    - fish: arraina
+    - foggy: lainotsu
+    - fog: laino
+    - foot: oin
+    - for: part of dative case phrase for me
+    - forest: baso
+    - foreign:
+      - arraro
+      - erdara (a foreign language)
+    - France: Francia
+    - friend: laguna
+    - friends: lagunak
+    - friend's: lagunen
+    - friends': lagunaren
+    - from: part of Ablative case
+    - front:
+      - frontea
+      - aurrean (in front of)
+    - frozen: izoztuta
+    - girl: neska
+    - girls: neskak
+    - girlfriend: neskalaguna
+    - girlfriends:
+      - neskalagunak
+      - neskalagunek
+    - give: eman
+    - glad:
+      - pozten (present)
+      - poztuko (future)
+      - pozik
+    - glasses: betaurrekoak
+    - gloves: eskularruak
+    - goat: ahuntz
+    - goats:
+      - ahuntzak
+      - ahuntzek
+    - go:
+      - joaten(present)
+      - joango (future)
+      - joan (command)
+    - good: on
+    - goodbye: agur
+    - goes: joaten
+    - going:
+      - noa (I am)
+      - zoaz (you are)
+      - doa (he, she, it is)
+      - goaz (we are)
+      - zoazte (you plural are)
+      - doaz (hey are)
+      - nindoan (I was going)
+      - zindoazen (you were)
+      - zihoan (he/she was)
+      - gindoazen (we were)
+      - zindoazten (you plural were)
+      - zihoazen (they were)
+    - gray: gris
+    - grandchildren: bilobak
+    - granddaughter: biloba
+    - grandparents:
+      - aitona-amonak
+      - aiton-amonek
+    - grandfather: aiton
+    - grandfathers: aitonak
+    - grandfather's: aitonaren
+    - grandmother: amon
+    - grandmother: amona
+    - grandmothers: amonak
+    - grandmother's: amonaren
+    - grandson: biloba
+    - grass: belarra
+    - green: berde
+    - guide: gida
+    - guides: gidak
+    - had: eduki
+    - hand: esku
+    - hands: eskuak
+    - happy: pozik
+    - has:
+      - eduki
+      - edun
+      - ukan
+    - hat:
+      - txanoaren (noren case)
+      - txano
+      - txanoa
+    - hats: txanoak
+    - have:
+      - eduki
+      - edun
+      - ukan
+    - he: hura
+    - hear:
+      - entzuten (present)
+      - entzungo (future)
+    - heard: entzun
+    - hello: kaixo
+    - her: bere
+    - here: hemen
+    - hers: berea
+    - hers: berea
+    - hi: epa
+    - high: altu
+    - him: hari (to him)
+    - his:
+      - bere
+      - berea
+    - horse: zaldia
+    - horses:
+      - zaldiak
+      - zaldiek
+    - horseback: zaldiz
+    - home: etxe
+    - house: etxe
+    - houses: etxeak
+    - housewife: etxekoandrea
+    - housewives:
+      - etxekoandreak
+      - etxekoandreek
+    - hot: bero
+    - hotel: hotel
+    - hotels: hotelak
+    - house: etxea
+    - how: nola
+    - humid: hezea
+    - humidity: hezetasun
+    - hungry: gose
+    - hura: hura
+    - husband: senarra
+    - husbands: senarrak
+    - I: ni
+    - in: Inessive case
+    - inside: barruan
+    - interested:
+      - interesatu (was interested in)
+      - interesatzen (is interested in)
+      - interesatuko (will be interested in)
+    - interesting:
+      - interesatu (was interesting to)
+      - interesatzen (is interesting to)
+      - interesatuko (will be interesting to)
+    - is:
+      - da
+      - dago
+    - it: hura
+    - its: berea
+    - jacket: jaka
+    - jackets: jakak
+    - killed: hil
+    - kill:
+      - hiltzen
+      - hilko (future)
+    - kills: hiltzen
+    - kilometer: kilometro
+    - kilometers: kilometroak
+    - knew: jakin
+    - know: jakin
+    - knows: jakin
+    - lake: laku
+    - language: hizkuntza
+    - languages: hizkuntzak
+    - last: azken
+    - late: berandu
+    - later: gero
+    - laugh:
+      - barre egiten (present)
+      - barre egingo (future)
+    - laugh: barre egiten (present)
+    - laughed: barre egin
+    - laughing: barrez
+    - leaf: hosto
+    - leaves: hostoak
+    - leave:
+      - ateratzen (present)
+      - aterako (future)
+      - utzi (command)
+    - left:
+      - ezker (direction)
+      - gelditu (was left) (verb)
+      - gelditen (is left) (verb)
+      - geldituko (will be left) (verb)
+    - let: utzi (command)
+    - lie:
+      - etzaten (present)
+      - etzango (future)
+    - lies: etzaten
+    - light: argitu
+    - like:
+      - gustatuko (will like)
+      - gustatzen (likes)
+    - likes: gustatzen
+    - liked: gustatu
+    - listen:
+      - entzuten (present) (listen to)
+      - entzungo (future)(listen to)
+    - listened : entzun (litened to)
+    - little: gutxi (amount)
+    - live: bizi + izan
+    - lives: bizi + izan
+    - lived: bizi + past of izan
+    - long: luzea
+    - look: begira
+    - lorry: kamioi
+    - lost: galdu
+    - lot: asko (a lot)
+    - lots: asko
+    - low: baxua
+    - machine: makina
+    - machines: makinak
+    - male: gizonezkoa
+    - man: gizon
+    - men: gizonak
+    - machine: makina
+    - meter: metro
+    - meters: metroak
+    - mine: nirea
+    - money: diru
+    - motorcycle: motor
+    - motorcycles: motorrak
+    - movie: filma
+    - must: behar
+    - name: izen
+    - names: izenak
+    - near: gertu
+    - newspaper: egunkari
+    - newspapers: egunkariak
+    - next:
+      - hurrengoa
+      - ondoan (next to)
+      - datorren
+    - nice: jator
+    - officers: poliziak (police officers)
+    - often: maiz
+    - on:
+      - Inessive case
+      - gainean
+    - over: gainean
+    - owl's: hontzaren
+    - owls: hontzak
+    - made:
+      - egin (was made)
+      - egiten (was made)
+      - egingo (will be made)
+    - man: gizona
+    - many: asko
+    - market: merkatu
+    - menu: menu
+    - menus: menuak
+    - mice: saguak
+    - hour: ordu
+    - hours: orduak
+    - midnight: gauerdi
+    - minute: minutu
+    - minutes: minutuak
+    - mini-hotel: ostatu
+    - mini-hotels: ostatuak
+    - money: dirua
+    - month:
+      - hilabete
+      - hilabetean (in a)
+    - morning: goizean
+    - mother: ama
+    - mother's: amaren
+    - mothers: amak
+    - mountain: mendi
+    - mountains: mendiak
+    - mouse: sagu
+    - me: nire (to me)
+    - my: nire
+    - new: berri
+    - nephew: iloba
+    - nephews: ilobak
+    - never: inoiz ez
+    - next: datorren
+    - nice: jatorra
+    - niece: iloba
+    - nieces: ilobak
+    - night: gau
+    - no: ez
+    - nobody: inor ez
+    - noon: eguerdia
+    - normally: normalean
+    - not: ez
+    - now: orain
+    - nurse: erizaina
+    - nurses': erizainen
+    - nurses:
+      - erizainak
+      - erizainek
+    - o'clock: number + a(k)
+    - only: bakarra
+    - on: part of phrase, not translated
+    - on time: garaiz
+    - open:
+      - ireki
+      - irekitzen
+      - irekiko
+    - opened: ireki
+    - outside: kanpoan
+    - of: de
+    - officer: ofiziala
+    - old: zahar
+    - or: edo
+    - orange: laranja
+    - our: gure
+    - ours: gurea
+    - over: amaitu
+    - owl: hontza
+    - pants: prakak
+    - parent: gurasoa
+    - parents: gurasoak
+    - parents': gurasoen
+    - park: parke
+    - parks: parkeak
+    - pass: pasa (verb)
+    - past: pasa (part of command go past)
+    - pen: boligrafo
+    - pencil: arkatza
+    - pencils: arkatzak
+    - pens: boligrafoak
+    - person: persona
+    - persons: personak
+    - people: personak
+    - pig: txakurra
+    - pigs: txakurrak
+    - pig: txerria
+    - plaza: plaza
+    - please: mesedez
+    - pleasing):
+      - gustatuko (will be pleasing)
+      - gustatzen (is pleasing
+      - gustatu (was pleasing)
+    - plus: gehi
+    - police: polizia
+    - poor: pobre
+    - priest: apaiza
+    - priests:
+      - apaizak
+      - apaizek
+      - apaizen (of the priests)
+    - plane: hegazkin
+    - plural: plurala
+    - pretty: polit
+    - pub: taberna
+    - purple: morea
+    - purse: poltsa
+    - purses: poltsak
+    - quarter: laurdena
+    - quiet: isildu (command)
+    - rain: euri
+    - rainy: euritsu
+    - ran: korri egin
+    - rarely: gutxitan
+    - rather: baizik
+    - read:
+      - irakurri (command)
+      - irakurri (past)
+      - irakurtzen (present)
+      - irakurriko (future)
+    - receive:
+      - jaso
+      - jasotzen
+      - jasoko
+    - received: jaso
+    - red: gorri
+    - rejoice:
+      - pozten (present)
+      - poztuko (future)
+    - relaxed: lasai
+    - release: utzi (command)
+    - remained:  gelditu (verb)
+    - remain: geldituko (will remain)(verb)
+    - remains: gelditen (verb)
+    - restaurant: jatetxe
+    - rich: dirudun
+    - right: eskuin
+    - ring: eraztuna
+    - rings: eraztunak
+    - river: ibai
+    - road: bide
+    - roofs: teilatuak
+    - room: gela
+    - rooms: gelak
+    - roof: teilatu
+    - runs: korri egiten (present)
+    - run:
+      - korri egingo (future)
+      - korri egiten (present)
+    - sad: triste
+    - said: esan
+    - same: berdin
+    - san: san
+    - sang: abestu
+    - sat: eseri
+    - saw: ikusi
+    - say:
+      - esaten
+      - esango (future)
+    - says: esaten
+    - school: eskola
+    - schools: eskolak
+    - seated: eserita
+    - Sebastian: Sebastian
+    - see:
+      - ikusi (past)
+      - ikusten (present)
+      - ikusiko (future)
+    - seemed: iruditu
+    - seem: irudituko (will seem)
+    - seems: iruditzen
+    - seldom: gutxitan
+    - sheep: ardiak
+    - she: hura
+    - shirt: alkandora
+    - shirts: alkandorak
+    - shoes: zapatak
+    - shoe: zapata
+    - short: labur
+    - shouts: oihu egiten (present)
+    - shout:
+      - oihu egin (past)
+      - oihu egiten (present)
+      - oihu egingo (future)
+    - shouted: oihu egin (past)
+    - sleeps: lo egiten (present)
+    - sleep:
+      - lo egingo (future)
+      - lo egiten (present)
+    - slept: lo egin (past)
+    - sick: gaixo
+    - side: alde
+    - sides: aldeak
+    - sign: seinale
+    - signs: seinaleak
+    - sing:
+      - abesten (present)
+      - abestuko (future)
+    - sister:
+      - ahizpa
+      - arreba
+    - sister's:
+      - ahizparen
+      - arrebaren
+    - sisters:
+      - ahizpak
+      - arrebak
+      - ahizpek
+      - arrebaek
+    - sit:
+      - eserten (present habitual)
+      - eseriko (future)
+      - eseri (command)
+    - sits: eserten
+    - sitting: eserita
+    - skirt: gona
+    - skirts: gonak
+    - sky: zeru
+    - slow: motel
+    - small: txiki
+    - smiles: irribarre egiten (present)
+    - smile:
+      - irribarre egingo (future)
+      - irribarre egiten (present)
+    - smiled: irribarre egin
+    - smiling: irribarre
+    - snakes:
+      - sugeak
+      - sugeek
+    - snake's: sugearen
+    - snake: suge
+    - snow: elur
+    - so: beraz
+    - socks:  galtzerdiak
+    - somebody: norbait
+    - something: zerbait
+    - song: abesti
+    - songs: abestiak
+    - son: seme
+    - sons: semeak
+    - son's: semearen
+    - soon: laster
+    - sorry: barkatu
+    - so-so: beraz
+    - speak:
+      - hitz egin (past)
+      - hitz egiten (present)
+      - hitz egingo (future)
+    - speaks: hitz egiten (present)
+    - spoke: hitz egin
+    - spoken:
+      - hitz egin (past)
+      - hitz egiten (present)
+      - hitz egingo (future)
+    - speak:
+      - hitz egin (past)
+      - hitz egiten (present)
+      - hitz egingo (future)
+    - square: plaza
+    - standing: zutik
+    - station: geltoki
+    - stations: geltokiak
+    - stay:
+      - egon (command)
+      - egoten (present habitual)
+      - egongo (future)
+      - geratu (present)
+      - geratuko (future)
+    - stayed: egon
+    - still: oraindik
+    - stop:
+      - gelditu (command)
+      - gelditzen
+      - geldituko  (future)
+    - stopped: gelditu
+    - stoplight: semaforo
+    - store: denda
+    - stores: dendak
+    - storm: ekaitz
+    - stranger: arrotz
+    - strangers: arrotzak
+    - straight: zuzen
+    - street: kale
+    - streets: kaleak
+    - strong: indartsu
+    - student: ikasle
+    - students: ikasleak
+    - students': ikasleenak
+    - sweaters: jertseak
+    - sun: eguzki
+    - sunny: eguzkitsu
+    - sweater: jertse
+    - table: mahai
+    - tables: mahaiak
+    - take:
+      - hartu (command)
+      - hartzen
+      - hartuko (future)
+    - taught: irakatsi
+    - tall: altu
+    - taxi: taxi
+    - taxis: taxiak
+    - teach:
+      - irakasten
+      - irakatsiko (future)
+    - teacher: irakaslea
+    - teachers:
+      - irakasleak
+      - irakasleen (of the teachers)
+    - temperature: tenperatura
+    - that:
+      - hori
+      - hura
+    - the: -a
+    - then: gero
+    - theater: zinema
+    - theaters: zinemak
+    - there: hor
+    - these: hauek
+    - their: haien
+    - theirs: haiena
+    - them: haiei (to them)
+    - they: haiek
+    - thin: argal
+    - thirsty: egarri
+    - this: hau
+    - those:
+      - haiek
+      - horiek
+    - time: denbora
+    - tired: nekatu
+    - today: gaur
+    - tomorrow: bihar
+    - tonight: gaur gauean
+    - to: part of Ablative case
+    - toilet: komun
+    - took: hartu
+    - top: gainean (location, on top of)
+    - tourists:
+      - turistak
+      - turistek
+    - tourist: turista
+    - tour: tour
+    - traffic: zirkulazio
+    - trains: trenak
+    - train: tren
+    - trees: zuhaitzak
+    - tree: zuhaitz
+    - trousers: prakak
+    - truck: kamioi
+    - trucks: kamioiak
+    - turn: biratu
+    - turtle: dortoka
+    - turtles: dortokak
+    - two: bi
+    - ugly: itsusi
+    - umbrella: aterki
+    - umbrellas: aterkiak
+    - uncle: osaba
+    - uncles: osabak
+    - uncle's: osabaren
+    - under: azpian
+    - up:
+      - gora
+      - part of wake up
+    - upstairs: goian
+    - us: guri (to us)
+    - use:
+      - erabiltzen (present)
+      - erabiliko (future)
+    - uses: erabiltzen (present)
+    - used: erabili
+    - usually:
+      - ohi
+      - normalean
+    - very: oso
+    - visit:
+      - bisita egiten (present)
+      - bisita egingo (future)
+    - visits: bisita egiten (present)
+    - visited: bisita egin
+    - wait: itxoin (command)
+    - waiter: camareroa
+    - waiters:
+      - camareroak
+      - camareroek
+    - wake:
+      - esnatzen
+      - esnatuko
+    - wakes: esnatzen
+    - walk:
+      - ibiltzen (izan present)
+      - ibiliko (izan future)
+    - walks:
+      - ibiltzen (izan present)
+      - ibiliko (izan future)
+    - walked: ibili
+    - walking:
+      - nabil (I am walking)
+      - zabiltza (you are walking)
+      - dabil (he/she/it is walking)
+      - gabiltza (we are walking)
+      - zabiltzate (you (plural) are walking)
+      - dabiltza (they are walking)
+      - nenbilen (I was walking)
+      - zenbiltzan (You were walking)
+      - zebilen (He/she/it was walking)
+      - genbiltzan (We  were walking)
+      - zenbiltzaten (You (plural) were walking)
+      - zebiltzan (They were walking)
+    - wall: horma
+    - walls: hormak
+    - wallet: zorro
+    - wallets: zorroak
+    - warm: epel
+    - was:
+      - nengoen(I)(egon)
+      - zegoen(he,she,it) (egon)
+      - zen
+    - watch: erloju
+    - watches: erlojuak
+    - we: gu
+    - weak: ahul
+    - weather: eguraldi
+    - weep:
+      - negar egin (past)
+      - negar egiten (present)
+      - negar egingo (future)
+    - weeps: negar egiten
+    - wept: negar egin (past)
+    - well: ondo
+    - went: joan zen (izan)
+    - were:
+      - zinen (izan)
+      - ginen (izan)
+      - zineten (izan)
+      - ziren (izan)
+      - geunden (we) (egon)
+      - zeuden (they) (egon)
+      - zeunden  (you) (egon)
+      - zeundeten (you (plural)) (egon)
+    - wet: bustia
+    - what: zer
+    - where:
+      - non
+      - nora (to)
+      - nondik (from)
+    - when: noiz
+    - which: zein
+    - white: zuri
+    - who:
+      - nor
+      - nortzuk
+    - whose: noren
+    - why: zergatik
+    - windy: haizetsu
+    - wife: emaztea
+    - will: future tense
+    - window: leiho
+    - windows: leihoak
+    - wine: ardo
+    - woods: basoa
+    - woke: esnatu
+    - woman: emakumea
+    - women:
+      - emakumeak
+      - emakumeen (of the women)
+    - works: lan egiten (present)
+    - work:
+      - lan egingo (future)
+      - lan egiten (present)
+    - worked : lan egin (past)
+    - worried: kezkatuta
+    - write:
+      - idatzi (command)
+      - idazten (present)
+      - idatziko (future)
+    - wrote: idatzi
+    - year: urte
+    - years: urteak
+    - yesterday: atzo
+    - yet: oraindik
+    - yellow: hori
+    - you: zu
+    - young: gazte
+    - your: zure
+    - yours:
+      - zurea
+      - zuena
