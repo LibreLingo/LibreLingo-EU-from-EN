@@ -86,9 +86,11 @@ Phrases:
       - Kaixo. Ere erizaina naiz.
     Translation: Hello. I am also a nurse.
 
-  - Phrase: Egun on. Zu al medikua zara?
+  - Phrase: Egun on. Zu medikua al zara?
     Alternative versions:
-      - Egun on. Al medikua zara?
+      - Egun on. Medikua al zara?
+      - Egun on. Zu medikua zara?
+      - Egun on. Medikua zara?
     Translation: Good Morning. Are you a doctor?
     Alternative translations:
       - Good Morning. Are you the doctor?
@@ -128,9 +130,11 @@ Phrases:
       - You(plural) are tourists.
       - You'll are tourists.
 
-  - Phrase: Zuek al poliziak zarete?
+  - Phrase: Zuek poliziak al zarete?
     Alternative versions:
-      - Al poliziak zarete?
+      - Poliziak al zarete?
+      - Zuek poliziak zarete?
+      - Poliziak zarete?
     Translation: Are you(plural) police officers?
     Alternative translations:
       - Are you'll police officers?
@@ -139,11 +143,15 @@ Phrases:
       - Are you'll the police officers?
       - Are you the police officers?
 
-  - Phrase: Hura al polizia bat da?
+  - Phrase: Hura polizia bat al da?
     Alternative versions:
-      - Al polizia bat da?
-      - Hura al polizia da?
-      - Al polizia da?
+      - Polizia bat al da?
+      - Hura polizia al da?
+      - Polizia al da?
+      - Hura polizia bat da?
+      - Polizia bat da?
+      - Hura polizia da?
+      - Polizia da?
     Translation: Is he a police officer?
     Alternative translations:
       - Is she a police officer?
