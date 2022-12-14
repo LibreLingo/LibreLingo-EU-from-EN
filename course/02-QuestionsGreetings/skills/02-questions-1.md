@@ -4,6 +4,7 @@
 * Miren zara zu? Are you Miren?
 ### "al" question word
 * Alternatively, you can be a bit more polite/formal and add "al" and ask "Miren al zara zu?"
+* Note that the "al" is before the conjugated verb.
 * You also need to keep in mind that Basque sentences have the most important pronoun or noun before the verb.
 * So "Zu irakaslea (al) zara?" ("al" optional) means "Are you a teacher?" with irakaslea/teacher stressed.
 * In other words, I thought you were the janitor. :-)

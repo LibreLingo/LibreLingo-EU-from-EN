@@ -119,6 +119,8 @@ Phrases:
   - Phrase: Hura mutila da?
     Alternative versions:
       - Mutila da?
+      - Hura multila al da?
+      - Mutila al da?
     Translation: Is he a boy?
     Alternative translations:
       - Is he the boy?
@@ -126,16 +128,24 @@ Phrases:
   - Phrase: Hura al autobusa da?
     Alternative versions:
       - Al autobusa da?
+      - Hura autobusa da?
+      - Autobusa da?
     Translation: Is it the bus?
     Alternative translations:
       - Is it a bus?
 
-  - Phrase: Kotxe al bat ere da.
+  - Phrase: Kotxe bat ere al da?
+    Alternative versions:
+      - Kotxea ere al da?
+      - Kotxe bat ere da?
+      - Kotxea ere da?
     Translation: Is it also a car?
 
   - Phrase: Hura autobusa edo kotxea da?
     Alternative versions:
       - Autobusa edo kotxea da?
+      - Hura autobus bat edo kotxe bat da?
+      - Autobus bat edo kotxe bat da?
     Translation: Is it a bus or a car?
     Alternative translations:
       - Is it the bus or the car?
@@ -157,8 +167,11 @@ Phrases:
     Alternative translations:
       - Who are you?
       - Who are you'll?
+      - Who are y'all?
 
   - Phrase: Nortzuk dira haiek?
+    Alternative versions:
+      - Nortzuk dira?
     Translation: Who are they?
 
   - Phrase: Zer dira haiek?
@@ -166,9 +179,11 @@ Phrases:
       - Zer dira?
     Translation: What are they?
 
-  - Phrase: Haiek al autobusak dira?
+  - Phrase: Haiek autobusak al dira?
     Alternative versions:
-      - Al autobusak dira?
+      - Autobusak al dira?
+      - Haiek autobusak dira?
+      - Autobusak dira?
     Translation: Are they the buses?
 
   - Phrase: Haiek autobusak edo kotxeak dira?
@@ -185,6 +200,7 @@ Phrases:
     Alternative translations:
       - What are you?
       - What are you'll?
+      - What are y'all?
 
   - Phrase: Zuek al zarete irakasleak?
     Alternative versions:
@@ -193,6 +209,7 @@ Phrases:
     Alternative translations:
       - Are you teachers?
       - Are you'll teachers?
+      - Are y'all teachers?
 
   - Phrase: Nortzuk irakasleak dira?
     Translation: Who are the teachers?
@@ -283,3 +300,4 @@ Mini-dictionary:
     - you: zu
     - you(plural): zuek
     - you'll: zuek
+    - y'all: zuek
