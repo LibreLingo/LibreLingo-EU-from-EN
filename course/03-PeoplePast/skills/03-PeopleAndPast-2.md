@@ -10,8 +10,8 @@
 * Zu zinen: You (single) were
 * Zu zara: You (single) are
 *
-* Hura zen: He/he/it was
-* Hura da: He/he/it is
+* Hura zen: He/she/it was
+* Hura da: He/she/it is
 *
 * Gu ginen: We were
 * Gu gara: We are
