@@ -19,7 +19,7 @@ New words:
       - friend2
       - friend3
 
-  - Word: camarero
+  - Word: kamarero
     Translation: waiter
     Images:
       - waiter1
@@ -68,11 +68,11 @@ Phrases:
       - Ikaslea nintzen, baina orain apaiza naiz.
     Translation: I was a student, but now I am a priest.
 
-  - Phrase: Zu camareroa zinen, baina orain irakaslea zara.
+  - Phrase: Zu kamareroa zinen, baina orain irakaslea zara.
     Alternative versions:
-      - Zu camareroa zinen, baina orain zu irakaslea zara.
-      - Camareroa zinen, baina orain zu irakaslea zara.
-      - Camareroa zinen, baina orain irakaslea zara.
+      - Zu kamareroa zinen, baina orain zu irakaslea zara.
+      - Kamareroa zinen, baina orain zu irakaslea zara.
+      - Kamareroa zinen, baina orain irakaslea zara.
     Translation: You were a waiter, but now you are a teacher.
 
   - Phrase: Zu arrotza zinen, baina orain laguna zara.
@@ -113,11 +113,11 @@ Phrases:
     Alternative translations:
       - We were friends, but now we're strangers.
 
-  - Phrase: Gu camareroak ginen, baina orain poliziak gara.
+  - Phrase: Gu kamareroak ginen, baina orain poliziak gara.
     Alternative versions:
-      - Gu camareroak ginen, baina orain gu poliziak gara.
-      - Camareroak ginen, baina orain gu poliziak gara.
-      - Camareroak ginen, baina orain poliziak gara.
+      - Gu kamareroak ginen, baina orain gu poliziak gara.
+      - Kamareroak ginen, baina orain gu poliziak gara.
+      - Kamareroak ginen, baina orain poliziak gara.
     Translation: We were waiters, but now we are police officers.
     Alternative translations:
       - We were waiters, but now we're police officers.
@@ -172,9 +172,9 @@ Mini-dictionary:
     - arrotza: the stranger
     - arrotzak: strangers
     - baina: but
-    - camarero: waiter
-    - camareroa: the waiter
-    - camareroak: waiters
+    - kamarero: waiter
+    - kamareroa: the waiter
+    - kamareroak: waiters
     - da: is
     - dira: are
     - etxekoandre: housewife
@@ -251,8 +251,8 @@ Mini-dictionary:
     - the: -a
     - they: haiek
     - today: gaur
-    - waiter: camarero
-    - waiters: camareroak
+    - waiter: kamarero
+    - waiters: kamareroak
     - was:
       - nintzen
       - zen
