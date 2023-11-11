@@ -19,7 +19,7 @@ Also, if the indefinite form of the word ends in an "r", for the Plural forms th
 ## Plural Pronouns and IZAN (to be)
 
 ### Plural Pronouns
-*   Gura (We)
+*   Gu (We)
 *   Zuek (You(plural))
 *   Haiek (They)
 
