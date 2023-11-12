@@ -105,7 +105,7 @@ Phrases:
     Alternative translations:
       - A young driver was thin and short.
 
-  - Phrase: Gizon zahara gizena eta altua da.
+  - Phrase: Gizon zaharra gizena eta altua da.
     Translation: The old man is fat and tall.
     Alternative translations:
       - An old man is fat and tall.
@@ -132,7 +132,7 @@ Phrases:
   - Phrase: Etxekoandrea altua da eta laguna motza da.
     Translation: The housewife is tall and the friend is short.
 
-  - Phrase: Camareroa argala zen, eta sukaldaria gizena zen.
+  - Phrase: Kamareroa argala zen, eta sukaldaria gizena zen.
     Translation: The waiter was thin and the cook was fat.
     Alternative translations:
       - The waiter was thin and the chef was fat.
@@ -180,7 +180,7 @@ Mini-dictionary:
     - berde: green
     - berdea: green
     - berdeak: green
-    - camareroa: waiter
+    - Kamareroa: waiter
     - da: is
     - dira: are
     - eta: and
@@ -275,5 +275,5 @@ Mini-dictionary:
     - you: zu
     - yellow: hori
     - young: gazte
-    - waiter: camareroa
+    - waiter: Kamareroa
     - white: zuri
