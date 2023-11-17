@@ -34,7 +34,7 @@
 * Jonen: Jon's,of Jon
 * Mirenen: Miren's,of Miren
 * noren: whose
-* akatza: pencil
+* arkatza: pencil
 * boligrafo: pen
 * baloia: ball
 * bizikleta: bicycle
