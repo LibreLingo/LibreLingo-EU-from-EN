@@ -6,7 +6,7 @@
 
 ### Single definite NONDIK
 * ending -(e)tik
-* If a single noun ends with a vowel, add -tik/if a consonant, add -etk
+* If a single noun ends with a vowel, add -tik/if a consonant, add -etik
 * mendi - menditik
 * autobus - autobusetik
 
