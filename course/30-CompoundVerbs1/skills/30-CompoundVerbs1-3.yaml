@@ -112,15 +112,15 @@ Phrases:
       - You will have to walk on the beach on Tuesday.
 
   - Phrase: Ostiralean semeak geltokira ezin da joango.
-    Translation: On Friday the son will be able to go to the station.
+    Translation: On Friday the son will not be able to go to the station.
     Alternative translations:
-      - Friday the son will be able to go to the station.
-      - The son will be able to go to the station on Friday.
-      - On Friday the son can go to the station.
-      - Friday the son can go to the station.
-      - The son can go to the station on Friday.
+      - Friday the son will not be able to go to the station.
+      - The son will not be able to go to the station on Friday.
+      - On Friday the son can not go to the station.
+      - Friday the son can not go to the station.
+      - The son can not go to the station on Friday.
 
-  - Phrase: Ni al ere etorri ahal izango gara?
+  - Phrase: Gu al ere etorri ahal izango gara?
     Alternative versions:
      - Ere etorri ahal izango gara?
     Translation: Will we also be able to come?
