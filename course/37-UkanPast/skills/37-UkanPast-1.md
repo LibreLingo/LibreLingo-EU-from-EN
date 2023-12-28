@@ -2,7 +2,7 @@
 * Just like with Izan, another form of ukan/edun is used with the remote past (actions done prior to current day).
 ## Ukan/Edun Remote past
 * Perfect Stem + past of “to have/UKAN”
-* Nik euskaraz hitz egin nengoen atzo.
+* Nik euskaraz hitz egin nuen atzo.
 * I spoke Basque yesterday.
 * The remote past is the time period prior to the day of speaking.
 ## Forming Ukan/Edun past form
