@@ -63,7 +63,7 @@ Phrases:
      - Gaur goizean laranja nahi izan duzu.
     Translation: This morning you wanted an orange.
 
-  - Phrase: Atzo Mikelen anaiak limoi nahi izan zuen.
+  - Phrase: Atzo Mikelen anaiak limoi bat nahi izan zuen.
     Translation: Yesterday the brother of Mikel wanted a lemon.
     Alternative translations:
      - Yesterday Mikel's brother wanted a lemon.
@@ -83,7 +83,7 @@ Phrases:
      - Yesterday y'all wanted a watermelon.
      - Yesterday you wanted a watermelon.
 
-  - Phrase: Gaur goizean Mikelen arrebaek melokotoi bat nahi izan dute.
+  - Phrase: Gaur goizean Mikelen arrebek melokotoi bat nahi izan dute.
     Translation: This morning the sisters of Mikel wanted a peach.
     Alternative translations:
      - This morning Mikel's sisters wanted a peach.
@@ -491,7 +491,7 @@ Mini-dictionary:
     - arrainak: fish (plural)
     - arratsalde: afternoon
     - arraultz: egg
-    - arrebaek: sisters
+    - arrebek: sisters
     - arrebarekin: With the sister of a brother
     - arrebaren: sister's
     - arreba: sister of a brother
@@ -2902,7 +2902,7 @@ Mini-dictionary:
       - ahizpak
       - arrebak
       - ahizpek
-      - arrebaek
+      - arrebek
     - sit:
       - eserten (present habitual)
       - eseriko (future)
