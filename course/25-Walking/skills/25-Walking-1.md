@@ -14,7 +14,7 @@
 * Egunero ibiltzen zara parkean. Every day you walk in the park.
 * Both forms can be combinded in a single sentence to show contrast.
 * You normally walk in the park, but today you are walking in the plaza.
-* Normalean parkean ibiltzen zara, baina gaur plazan zoaz.
+* Normalean parkean ibiltzen zara, baina gaur plazan zabiltza.
 
 ### Walk 1
 * nabil: I am walking

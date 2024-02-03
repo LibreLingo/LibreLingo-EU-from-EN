@@ -1,6 +1,6 @@
 ## Possessive adjectives
 * Note that possessive adjectives, unlike normal adjectives, go before the noun and do not change when the noun is plural.</p>
-* Hura nire laguan da.: He is my friend.
+* Hura nire laguna da.: He is my friend.
 * Haiek nire lagunak dira. : They are my friends.
 
 ### Culture note

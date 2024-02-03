@@ -5,7 +5,7 @@ In this lesson you will learn the names of some more professions.
 ## Vocabulary People and Past 3
 * Etxekoandre: Housewife
 * Lagun: Friend
-* Camarero: Waiter
+* Kamarero: Waiter
 * Sukaldaria: Cook, Chef
 * Apaiz: Priest
 * Arrotz: Stranger

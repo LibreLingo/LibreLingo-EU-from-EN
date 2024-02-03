@@ -4,7 +4,7 @@
 * oihu: shout
 * hitz: speak
 * amets: dream
-* edara: a foreign language (usually a language other than Basque, French or Spanish)
+* erdara: a foreign language (usually a language other than Basque, French or Spanish)
 * erdaraz: in erdara
 
 [ Go Back to Home Page!](..)

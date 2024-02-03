@@ -4,7 +4,7 @@
 * zazpiak: seven o’clock
 * zortziak: eight o’clock
 * bederatziak: nine o’clock
-* hamabiak: ten o’clock
+* hamarrak: ten o’clock
 * hamaikak: eleven o’clock
 * hamabiak: twelve o’clock
 * eguerdia: noon

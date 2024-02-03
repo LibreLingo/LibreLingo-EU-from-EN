@@ -33,7 +33,7 @@ New words:
       - gasteiz
 
   - Word: Bilbo
-    Translation: Bilboa
+    Translation: Bilbao
     Images:
       - bilbo1
       - bilbo2
@@ -101,7 +101,7 @@ Phrases:
     Translation: San Sebastian is in Basque Country.
 
   - Phrase: Bilbo ere Euskal Herrian dago.
-    Translation: Bilboa is also in Basque Country.
+    Translation: Bilbao is also in Basque Country.
 
   - Phrase: Non dago ibaia?
     Translation: Where is the river?
@@ -130,14 +130,14 @@ Phrases:
     - Where is a ring?
 
   - Phrase: Eraztuna Bilbon dago.
-    Translation: The ring is in Bilboa.
+    Translation: The ring is in Bilbao.
     Alternative translations:
-    - A ring is in Bilboa.
+    - A ring is in Bilbao.
 
   - Phrase: Zer dago mendian?
     Translation: What is upon the mountain?
 
-  - Phrase: Begira! Ardiak mendiaetan daude.
+  - Phrase: Begira! Ardiak mendietan daude.
     Translation: Look! Sheep are on the mountains.
 
   - Phrase: Begira! Ahuntzak basoetan daude.
@@ -160,8 +160,8 @@ Phrases:
 
 Mini-dictionary:
   Basque:
-    - Bilbo: Bilboa (city)
-    - Bilbon: in Bilboa
+    - Bilbo: Bilbao (city)
+    - Bilbon: in Bilbao
     - Donostia: San Sebastian (city)
     - Espainia: Spain
     - Espainian: in Spain
@@ -480,7 +480,7 @@ Mini-dictionary:
   English:
     - Basque: Euskal
     - Country: Herrian
-    - Bilboa: Bilbo (city)
+    - Bilbao: Bilbo (city)
     - Europe: Europa
     - France: Francia
     - Irun: Irun (city)

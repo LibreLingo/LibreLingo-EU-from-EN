@@ -13,7 +13,7 @@
 
 #### Places:
 * Cities in the Basque area often have both a Basque and a Spanish name.
-    * Bilboa/Bilbo
+    * Bilbo/Bilbao
     * Donostia/San Sebastian
     * Basteiz/Victoria
     * Irun/Irún (almost the same, but not quite)
@@ -23,7 +23,7 @@
 * Irun: Irun
 * Donostia: San Sebastian
 * Gasteiz: Vitoria
-* Bilbo: Bilboa
+* Bilbo: Bilbao
 * kale: street
 * Frantzia: France
 * ibai: river

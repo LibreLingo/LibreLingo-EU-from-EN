@@ -4,7 +4,7 @@
 
 ### Vocabulary Animaliak 3
 * ahul: weak
-* indarstu: strong
+* indartsu: strong
 * jator: nice
 * luze: long
 * on: good
