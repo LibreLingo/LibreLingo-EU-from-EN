@@ -63,6 +63,6 @@ __Bat(one):__ The word "bat" (one) is used as an adjective, so the accompanying 
 *   zu zara: you are
 *   hura da: he/she/it is
 *   bat: one
-*   kaizo: hello
+*   kaixo: hello
 
 [ Go Back to Home Page!](..)
